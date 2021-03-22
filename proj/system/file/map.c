@@ -9,7 +9,7 @@ int(load_map)(uint16_t mapNumber, map_t* map) {
     int32_t num = 0;
     uint16_t curLine = 0, curCol = 0;
 
-    strcpy(filePath, "/home/lcom/labs/g01/proj/data/maps/map");
+    strcpy(filePath, "/home/lcom/labs/minixop/data/maps/map");
     sprintf(auxString, "%03d", mapNumber);
 
     strcat(filePath, auxString);
