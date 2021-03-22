@@ -1,0 +1,9 @@
+<map id="render_pickup" name="render_pickup">
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,108,133"/>
+<area shape="rect" id="node2" href="$render_8c.html#a3e1af8d28689f1930e3989e0e3aefc32" title=" " alt="" coords="156,107,256,133"/>
+<area shape="rect" id="node3" href="$group__utils.html#ga258c131e5c160a0111647291e02531d9" title="Calculates the determinant of a 2x2 matrix." alt="" coords="317,5,407,32"/>
+<area shape="rect" id="node4" href="$group__utils.html#ga04465e5fd27eba32fbc8881a753628ad" title=" " alt="" coords="323,56,401,83"/>
+<area shape="rect" id="node5" href="$group__utils.html#gafbdd1445e81cdd60b9e3c438dd03bf44" title="Calculates the vector magnitude." alt="" coords="468,81,541,108"/>
+<area shape="rect" id="node6" href="$group__utils.html#ga8089a1b15a7b4f1bce51d36dd8c0646d" title="Calculates the internal product of two vectors." alt="" coords="328,157,396,184"/>
+<area shape="rect" id="node7" href="$group__controls.html#gab1d487a86a862ee11795b292d25d83c4" title="Gets the current settings." alt="" coords="304,208,420,235"/>
+</map>

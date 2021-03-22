@@ -1,0 +1,1 @@
+lcom_run proj

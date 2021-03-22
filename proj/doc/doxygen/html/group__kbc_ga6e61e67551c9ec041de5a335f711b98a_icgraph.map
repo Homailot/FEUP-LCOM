@@ -1,0 +1,6 @@
+<map id="write_kbc_cmd_byte" name="write_kbc_cmd_byte">
+<area shape="rect" id="node1" title="Writes a command byte to the kbc." alt="" coords="456,5,597,32"/>
+<area shape="rect" id="node2" href="$group__kbc.html#ga1bd284075e40e0536abe332487bc7f3a" title="Function to reset the command byte." alt="" coords="293,5,408,32"/>
+<area shape="rect" id="node3" href="$group__init__lvl.html#ga88838a1d5a5f0bd9067b1d5dffe3874d" title="Free the memory allocated by load_game." alt="" coords="163,5,245,32"/>
+<area shape="rect" id="node4" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,115,32"/>
+</map>

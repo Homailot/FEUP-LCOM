@@ -1,0 +1,13 @@
+<map id="render_disconnect_screen" name="render_disconnect_screen">
+<area shape="rect" id="node1" title="Renders the disconnected screen." alt="" coords="5,132,180,159"/>
+<area shape="rect" id="node2" href="$group__render.html#ga7312ae0798b69b9b882f214132f3125c" title="Draws the mouse." alt="" coords="249,56,344,83"/>
+<area shape="rect" id="node6" href="$group__video__graphics.html#gade1dd2f68eb9153aeb5db5f5d541ca6b" title="Draws a sprite on the screen." alt="" coords="451,107,539,133"/>
+<area shape="rect" id="node7" href="$group__controls.html#gaba97f7c23cef2ac0d84cf436333c3263" title="Detects if the mouse is within the boundings of a rectangle." alt="" coords="228,157,365,184"/>
+<area shape="rect" id="node8" href="$group__game__manager.html#ga0fc3becd2b2ae6ca9716da98ddf7ea3b" title="Sets the game state." alt="" coords="259,208,335,235"/>
+<area shape="rect" id="node3" href="$group__video__graphics.html#gacade4e02bbddc4e47509b901955250ee" title="Draws a sprite on the screen, using its &#39;shape&#39; as a color mask." alt="" coords="413,5,576,32"/>
+<area shape="rect" id="node5" href="$group__controls.html#gab1d487a86a862ee11795b292d25d83c4" title="Gets the current settings." alt="" coords="437,56,553,83"/>
+<area shape="rect" id="node4" href="$group__video__graphics.html#gae94376b8b22b2414b6a4a53d867fe672" title="Sets a pixel to a desired color in a position of the page buffer." alt="" coords="641,56,703,83"/>
+<area shape="rect" id="node9" href="$group__rtc.html#ga71b877e0f44643e0e8c7629f1eda160f" title="Enable update interrupts." alt="" coords="442,208,547,235"/>
+<area shape="rect" id="node10" href="$rtc__controller_8c.html#adad2c3217dbca738d26832103ba7caf4" title="Reads a specified register." alt="" coords="625,183,719,209"/>
+<area shape="rect" id="node11" href="$rtc__controller_8c.html#a74a573498a58e5fbfddb5b4df754516a" title="Writes to a specified register." alt="" coords="624,233,720,260"/>
+</map>

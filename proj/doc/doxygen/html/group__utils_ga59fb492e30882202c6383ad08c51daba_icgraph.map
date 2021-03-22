@@ -1,0 +1,11 @@
+<map id="dist_positions_squared" name="dist_positions_squared">
+<area shape="rect" id="node1" title="Calculates the squared distance between two positions." alt="" coords="699,51,853,77"/>
+<area shape="rect" id="node2" href="$group__utils.html#ga636e50c87bfc905b35ec485d29f65c7c" title="Checks if a circle and a rectangle collide. SOURCE: https://www.lazyfoo.net/tutorials/SDL/29_circular..." alt="" coords="472,11,651,37"/>
+<area shape="rect" id="node5" href="$group__pickups.html#ga3f9c10d31107f1923e5b650625b6cfbb" title="Checks if a player can pick up an item." alt="" coords="489,73,633,114"/>
+<area shape="rect" id="node3" href="$pickups_8c.html#a1f16da8c2949c6e5af9b821d2f8a0678" title=" " alt="" coords="327,8,424,35"/>
+<area shape="rect" id="node4" href="$group__pickups.html#ga46369825145dfd4934c290b913a536da" title="Adds pickup to pickup array and sets its position in the collision table." alt="" coords="173,5,261,32"/>
+<area shape="rect" id="node6" href="$group__player.html#ga9c5e03267d9da4e33f447e7b6ef0ce81" title="Player int handler Analyses controls and moves, shoots and select animations that should be played ac..." alt="" coords="328,101,423,128"/>
+<area shape="rect" id="node7" href="$group__player.html#gac0c234692f894d10aba0383114063dfb" title="Handle bots events." alt="" coords="178,56,257,83"/>
+<area shape="rect" id="node8" href="$group__game__manager.html#ga72c1b0483c8b85ff380edd7ac1ee64f1" title="Handles the game&#39;s functions and changes the game&#39;s state according to input and current state." alt="" coords="5,107,108,133"/>
+<area shape="rect" id="node9" href="$group__networking.html#gab1688aafeb84ecc5a700fe53d67d76dc" title="Receives data from the enemy player." alt="" coords="156,157,279,184"/>
+</map>

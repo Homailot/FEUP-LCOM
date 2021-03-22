@@ -1,0 +1,31 @@
+<map id="rtc_read_reg" name="rtc_read_reg">
+<area shape="rect" id="node1" title="Reads a specified register." alt="" coords="1276,233,1371,260"/>
+<area shape="rect" id="node2" href="$group__rtc.html#gaa20d362896b550cbfd0c10d226827580" title="Enables alarm interrupts." alt="" coords="1120,5,1228,32"/>
+<area shape="rect" id="node3" href="$group__rtc.html#gadf3868602df4df13d3e0e9ac762a42bb" title="Enables periodic interupts." alt="" coords="1120,56,1228,83"/>
+<area shape="rect" id="node10" href="$group__rtc.html#gabce92d2c2f7eed06f9dba56017fb1da1" title="Enable update interrupts." alt="" coords="938,481,1046,508"/>
+<area shape="rect" id="node14" href="$group__rtc.html#gad4fbbfd06ad0bb02545b44af3efafd92" title="Enables alarm interrupts." alt="" coords="1121,461,1227,488"/>
+<area shape="rect" id="node15" href="$group__rtc.html#gad4c6fe922f33cc0b8b50fdfac0721779" title="Enables periodic interupts." alt="" coords="939,608,1045,635"/>
+<area shape="rect" id="node16" href="$group__rtc.html#ga71b877e0f44643e0e8c7629f1eda160f" title="Enable update interrupts." alt="" coords="1121,259,1227,285"/>
+<area shape="rect" id="node25" href="$group__rtc.html#ga585ae9914479cfb895196cacf2bda850" title="Initializes variables to the minix configuration to restore it later." alt="" coords="947,208,1037,235"/>
+<area shape="rect" id="node26" href="$group__rtc.html#ga802d246565c5f9eebb04bdddc47d58c8" title="Reset periodic interrupts value." alt="" coords="1125,107,1223,133"/>
+<area shape="rect" id="node27" href="$group__rtc.html#gabd60fbccb2827cddc3cc82949a9e6115" title="Sets the date on a date_t object." alt="" coords="1127,157,1221,184"/>
+<area shape="rect" id="node29" href="$group__rtc.html#ga4d46ecea13329a856bdca3d1d72e22da" title="Set periodic interrupts to 500ms." alt="" coords="912,696,1072,723"/>
+<area shape="rect" id="node4" href="$group__init__lvl.html#gaa25d395d4fff08666e831e0cba1c7246" title="Free memory allocated by load level and setup_game_x." alt="" coords="955,56,1029,83"/>
+<area shape="rect" id="node5" href="$group__game__manager.html#gaf1aa267b17d0e1d99c23239ed18bbd4c" title="Closes the multi player game." alt="" coords="707,5,847,32"/>
+<area shape="rect" id="node9" href="$group__game__manager.html#ga18feb8bfb124d4bc47d1cbe47c6316d3" title="Updates the game state based on actions made by the players." alt="" coords="493,56,629,83"/>
+<area shape="rect" id="node6" href="$group__game__manager.html#ga72c1b0483c8b85ff380edd7ac1ee64f1" title="Handles the game&#39;s functions and changes the game&#39;s state according to input and current state." alt="" coords="329,81,432,108"/>
+<area shape="rect" id="node7" href="$group__game__manager.html#gae863255901fecfdd13f5ecdc0b3b034f" title="Handles interrupts and is essentially the main game loop." alt="" coords="163,157,281,184"/>
+<area shape="rect" id="node8" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,183,115,209"/>
+<area shape="rect" id="node11" href="$group__game__manager.html#ga4a323cc011b2f392e965546d02b1283a" title="Starts the game loop." alt="" coords="725,715,828,741"/>
+<area shape="rect" id="node12" href="$group__main__menu.html#ga81f52284cc492323c3f07322993acb95" title="Render the main menu." alt="" coords="512,549,609,576"/>
+<area shape="rect" id="node13" href="$group__main__menu.html#ga440214e655ee6548a258e9024537fccc" title="Renders a win/lose screen according to the player&#39;s condition." alt="" coords="480,689,641,716"/>
+<area shape="rect" id="node17" href="$group__init__lvl.html#ga68cbf292baa1114d43f18837a866c318" title="Load modules of the game from the lib and initializes everything." alt="" coords="737,157,816,184"/>
+<area shape="rect" id="node18" href="$group__game__manager.html#ga0fc3becd2b2ae6ca9716da98ddf7ea3b" title="Sets the game state." alt="" coords="954,411,1030,437"/>
+<area shape="rect" id="node19" href="$group__inv__menu.html#gacf9a8815153ec55160f7d9d1a3dc7221" title="Display gun selection menu." alt="" coords="725,613,828,640"/>
+<area shape="rect" id="node20" href="$group__main__menu.html#ga2634f5062e698234137ef135de54f55b" title="Renders the disconnected screen." alt="" coords="689,309,864,336"/>
+<area shape="rect" id="node21" href="$group__main__menu.html#gadb38f25c0509fbd2a1cb8bf0867f084c" title="Renders the multiplayer connection screen." alt="" coords="715,360,838,387"/>
+<area shape="rect" id="node22" href="$level__manager_8c.html#a9b8cc51da4a483bf58753035b27647b5" title=" " alt="" coords="723,411,830,437"/>
+<area shape="rect" id="node23" href="$group__init__lvl.html#ga95f29e94f6f0c3ef4d49f8f8ca9eed80" title="Setup level 2." alt="" coords="723,512,830,539"/>
+<area shape="rect" id="node24" href="$group__init__lvl.html#ga5376dd4c96f57dfbcd9669a71d43e47c" title="Setups multiplayer game mode and level." alt="" coords="715,563,839,589"/>
+<area shape="rect" id="node28" href="$group__rtc.html#ga46a3900840f7cfabdc6225622ffd88c6" title="RTC Interrupt handler." alt="" coords="965,157,1019,184"/>
+</map>

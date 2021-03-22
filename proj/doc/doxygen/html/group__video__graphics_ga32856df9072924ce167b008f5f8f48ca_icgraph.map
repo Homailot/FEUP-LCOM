@@ -1,0 +1,6 @@
+<map id="get_mem_size" name="get_mem_size">
+<area shape="rect" id="node1" title="Returns memory size." alt="" coords="396,5,503,32"/>
+<area shape="rect" id="node2" href="$group__video__graphics.html#gafd8c14dded589aa5d616c03c9c884642" title="Function to initialize a graphics mode." alt="" coords="289,5,348,32"/>
+<area shape="rect" id="node3" href="$group__init__lvl.html#ga68cbf292baa1114d43f18837a866c318" title="Load modules of the game from the lib and initializes everything." alt="" coords="163,5,241,32"/>
+<area shape="rect" id="node4" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,115,32"/>
+</map>

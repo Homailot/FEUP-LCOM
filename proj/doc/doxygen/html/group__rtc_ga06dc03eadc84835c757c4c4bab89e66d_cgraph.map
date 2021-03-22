@@ -1,0 +1,6 @@
+<map id="rtc_set_alarm" name="rtc_set_alarm">
+<area shape="rect" id="node1" title="Enables an alarm interrupt." alt="" coords="5,31,107,57"/>
+<area shape="rect" id="node2" href="$group__rtc.html#ga0ad452308d69971fbe36032347efc9a1" title="Converts a binary number to bcd mode." alt="" coords="155,5,257,32"/>
+<area shape="rect" id="node3" href="$rtc__controller_8c.html#a74a573498a58e5fbfddb5b4df754516a" title="Writes to a specified register." alt="" coords="158,56,254,83"/>
+<area shape="rect" id="node4" href="$rtc__controller_8c.html#a631c0518d64d59e412c38ec5ecd2e9b4" title="Chooses what register to use for the next operation." alt="" coords="305,56,392,83"/>
+</map>

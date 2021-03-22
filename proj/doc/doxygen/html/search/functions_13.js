@@ -1,0 +1,9 @@
+var searchData=
+[
+  ['vbe_5fget_5finfo_1237',['vbe_get_info',['../group__video__graphics.html#gafb5cf6a3a1da598b946aac7f1160e2a1',1,'vbe_get_info(__uint16_t mode, vbe_mode_info_t *info):&#160;video_graphics.c'],['../group__video__graphics.html#gafb5cf6a3a1da598b946aac7f1160e2a1',1,'vbe_get_info(__uint16_t mode, vbe_mode_info_t *info):&#160;video_graphics.c']]],
+  ['vec_5fmag_1238',['vec_mag',['../group__utils.html#gafbdd1445e81cdd60b9e3c438dd03bf44',1,'vec_mag(vector_t *v1):&#160;utils.c'],['../group__utils.html#gafbdd1445e81cdd60b9e3c438dd03bf44',1,'vec_mag(vector_t *v1):&#160;utils.c']]],
+  ['vec_5fmag_5fsquared_1239',['vec_mag_squared',['../group__utils.html#ga05035055a0f7d39c4055195d0879026b',1,'vec_mag_squared(vector_t *v1):&#160;utils.c'],['../group__utils.html#ga05035055a0f7d39c4055195d0879026b',1,'vec_mag_squared(vector_t *v1):&#160;utils.c']]],
+  ['vg_5fdraw_5fhor_5fline_1240',['vg_draw_hor_line',['../group__video__graphics.html#ga5bf75b0121e2608e9921390ae9d1ecc3',1,'vg_draw_hor_line(__uint16_t x, __uint16_t y, __uint16_t len, __uint32_t color):&#160;video_graphics.c'],['../group__video__graphics.html#ga5bf75b0121e2608e9921390ae9d1ecc3',1,'vg_draw_hor_line(__uint16_t x, __uint16_t y, __uint16_t len, __uint32_t color):&#160;video_graphics.c']]],
+  ['vg_5finit_1241',['vg_init',['../group__video__graphics.html#gafd8c14dded589aa5d616c03c9c884642',1,'vg_init(__uint16_t mode):&#160;video_graphics.c'],['../group__video__graphics.html#gafd8c14dded589aa5d616c03c9c884642',1,'vg_init(__uint16_t mode):&#160;video_graphics.c']]],
+  ['void_1242',['void',['../group__utils.html#gacc882160d690baecacee2d96afe2c7ec',1,'void(rotate_vec(vector_t *vec, double ang)):&#160;utils.c'],['../group__utils.html#gacc882160d690baecacee2d96afe2c7ec',1,'void(rotate_vec(vector_t *vec, double ang)):&#160;utils.c']]]
+];

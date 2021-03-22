@@ -1,0 +1,8 @@
+<map id="display_map" name="display_map">
+<area shape="rect" id="node1" title="Renders the currently loaded map using the ray casting render technique." alt="" coords="5,56,100,83"/>
+<area shape="rect" id="node2" href="$group__video__graphics.html#ga9fec4cae8035845e3ff857a6fef03904" title="Clears the screen." alt="" coords="148,5,244,32"/>
+<area shape="rect" id="node3" href="$render_8c.html#a1b5663b5e3670144357ced7bfb4f16c9" title=" " alt="" coords="153,56,239,83"/>
+<area shape="rect" id="node6" href="$group__utils.html#gaf8a0e2cdb298cf048ec549e739d05467" title="Shoots a ray from a given position in a given direction." alt="" coords="157,107,235,133"/>
+<area shape="rect" id="node4" href="$group__video__graphics.html#ga56db136ae714bb071adb9103bd7ab68e" title="Darkens a color by a factor." alt="" coords="292,31,353,57"/>
+<area shape="rect" id="node5" href="$group__video__graphics.html#gae94376b8b22b2414b6a4a53d867fe672" title="Sets a pixel to a desired color in a position of the page buffer." alt="" coords="292,81,353,108"/>
+</map>

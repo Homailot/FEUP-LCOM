@@ -1,0 +1,9 @@
+<map id="setup_multiplayer" name="setup_multiplayer">
+<area shape="rect" id="node1" title="Setups multiplayer game mode and level." alt="" coords="492,31,616,57"/>
+<area shape="rect" id="node2" href="$group__init__lvl.html#ga549b3f664f9bd3be08c458aac824ae77" title="Loads a specified level." alt="" coords="365,31,444,57"/>
+<area shape="rect" id="node3" href="$group__game__manager.html#ga72c1b0483c8b85ff380edd7ac1ee64f1" title="Handles the game&#39;s functions and changes the game&#39;s state according to input and current state." alt="" coords="215,5,317,32"/>
+<area shape="rect" id="node5" href="$group__game__manager.html#ga4a323cc011b2f392e965546d02b1283a" title="Starts the game loop." alt="" coords="215,56,317,83"/>
+<area shape="rect" id="node4" href="$group__game__manager.html#gae863255901fecfdd13f5ecdc0b3b034f" title="Handles interrupts and is essentially the main game loop." alt="" coords="27,5,145,32"/>
+<area shape="rect" id="node6" href="$group__main__menu.html#ga81f52284cc492323c3f07322993acb95" title="Render the main menu." alt="" coords="37,56,135,83"/>
+<area shape="rect" id="node7" href="$group__main__menu.html#ga440214e655ee6548a258e9024537fccc" title="Renders a win/lose screen according to the player&#39;s condition." alt="" coords="5,107,167,133"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="check_circle_rect_collision" name="check_circle_rect_collision">
+<area shape="rect" id="node1" title="Checks if a circle and a rectangle collide. SOURCE: https://www.lazyfoo.net/tutorials/SDL/29_circular..." alt="" coords="5,5,184,32"/>
+<area shape="rect" id="node2" href="$group__utils.html#ga59fb492e30882202c6383ad08c51daba" title="Calculates the squared distance between two positions." alt="" coords="232,5,387,32"/>
+</map>

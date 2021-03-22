@@ -1,0 +1,4 @@
+<map id="put_buffer" name="put_buffer">
+<area shape="rect" id="node1" title="Puts the current buffer to the screen." alt="" coords="5,5,84,32"/>
+<area shape="rect" id="node2" href="$group__video__graphics.html#ga1f8a1c48ec71ce3d4d6474f986b8c54e" title="Swaps the page buffer with the drawing buffer." alt="" coords="132,5,205,32"/>
+</map>

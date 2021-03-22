@@ -1,0 +1,6 @@
+<map id="empty_recv_queue" name="empty_recv_queue">
+<area shape="rect" id="node1" title="Cancels receptions." alt="" coords="5,31,136,57"/>
+<area shape="rect" id="node2" href="$group__queue.html#gad93c53dee3faabac3b20684647434d64" title="Cleans the queue, removing and freeing all of its elements." alt="" coords="184,31,279,57"/>
+<area shape="rect" id="node3" href="$group__queue.html#ga6286b9bdcf30be36b25602dd580f2c56" title="Checks if the given queue is empty." alt="" coords="327,5,427,32"/>
+<area shape="rect" id="node4" href="$group__queue.html#gaafb1cfdccbd2de8cb2d8fcd97971193c" title="Removes the element at the front of the given queue." alt="" coords="334,56,419,83"/>
+</map>

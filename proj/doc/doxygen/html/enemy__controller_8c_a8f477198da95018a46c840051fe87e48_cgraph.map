@@ -1,0 +1,10 @@
+<map id="handle_enemy" name="handle_enemy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,112,133"/>
+<area shape="rect" id="node2" href="$group__utils.html#ga83cb9a2a2f9cd0c4c282fed2018a7eb1" title="Returns the absolute value of a double." alt="" coords="160,5,248,32"/>
+<area shape="rect" id="node3" href="$group__utils.html#ga55a68e015a7089119da69a2fee9ad988" title="Calculates the angle of two vectors between &#45;180 and 180." alt="" coords="173,56,235,83"/>
+<area shape="rect" id="node6" href="$group__utils.html#ga04465e5fd27eba32fbc8881a753628ad" title=" " alt="" coords="165,107,243,133"/>
+<area shape="rect" id="node7" href="$group__utils.html#gafbdd1445e81cdd60b9e3c438dd03bf44" title="Calculates the vector magnitude." alt="" coords="305,132,378,159"/>
+<area shape="rect" id="node8" href="$group__utils.html#gaf8a0e2cdb298cf048ec549e739d05467" title="Shoots a ray from a given position in a given direction." alt="" coords="165,208,243,235"/>
+<area shape="rect" id="node4" href="$group__utils.html#ga258c131e5c160a0111647291e02531d9" title="Calculates the determinant of a 2x2 matrix." alt="" coords="296,31,387,57"/>
+<area shape="rect" id="node5" href="$group__utils.html#ga8089a1b15a7b4f1bce51d36dd8c0646d" title="Calculates the internal product of two vectors." alt="" coords="307,81,375,108"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="parse_packet" name="parse_packet">
+<area shape="rect" id="node1" title="Turns a 3 byte array into a packet structure." alt="" coords="507,5,607,32"/>
+<area shape="rect" id="node2" href="$group__controls.html#ga9595f0af09d270f689d1a7dbea567492" title="Handles a mouse event after an interrupt Calls mouse_ih() Evaluates important information such as cur..." alt="" coords="329,5,459,32"/>
+<area shape="rect" id="node3" href="$group__game__manager.html#gae863255901fecfdd13f5ecdc0b3b034f" title="Handles interrupts and is essentially the main game loop." alt="" coords="163,5,281,32"/>
+<area shape="rect" id="node4" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,115,32"/>
+</map>

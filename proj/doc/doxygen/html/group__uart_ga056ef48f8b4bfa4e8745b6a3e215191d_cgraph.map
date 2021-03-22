@@ -1,0 +1,6 @@
+<map id="free_uart_queues" name="free_uart_queues">
+<area shape="rect" id="node1" title="Frees the memory allocated by init_uart_queues." alt="" coords="5,31,127,57"/>
+<area shape="rect" id="node2" href="$group__queue.html#ga2a76c260edb3a3adb32b79a6440dad6c" title="Frees memory allocated by the given queue&#39;s items, and the queue itself." alt="" coords="175,31,273,57"/>
+<area shape="rect" id="node3" href="$group__queue.html#ga6286b9bdcf30be36b25602dd580f2c56" title="Checks if the given queue is empty." alt="" coords="321,5,421,32"/>
+<area shape="rect" id="node4" href="$group__queue.html#gaafb1cfdccbd2de8cb2d8fcd97971193c" title="Removes the element at the front of the given queue." alt="" coords="329,56,414,83"/>
+</map>

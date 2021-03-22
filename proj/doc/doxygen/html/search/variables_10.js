@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['s_5fdown_1404',['s_down',['../structnetwork__packet.html#a6c133456949cba38a58ce920ffc8bb0d',1,'network_packet']]],
+  ['screen_5fpos_1405',['screen_pos',['../structsprite.html#af690e5add303f99e880846d1fc444cd0',1,'sprite']]],
+  ['sec_1406',['sec',['../structdate.html#aa4c33e96a2a9b94fd30330bbd7ba1811',1,'date']]],
+  ['settings_1407',['settings',['../controls_8c.html#a448b7c9fa402ef11eb60e01e434c0227',1,'settings():&#160;controls.c'],['../player_8c.html#a448b7c9fa402ef11eb60e01e434c0227',1,'settings():&#160;player.c']]],
+  ['shift_5fdown_1408',['shift_down',['../structnetwork__packet.html#ae6564e9dc273bb6eb7525ff6128064af',1,'network_packet']]],
+  ['shoot_5fdown_1409',['shoot_down',['../structnetwork__packet.html#af3c5e47b093bd44fb0dfb57e4ef2d19b',1,'network_packet']]],
+  ['should_5frender_1410',['should_render',['../structplayer__info.html#a40f02938501d3286b8aa9d0f004518c6',1,'player_info']]],
+  ['side_1411',['side',['../structline__tex.html#a2d7431eddd5ca6d1ac206533ee0bad0e',1,'line_tex::side()'],['../structray__hit.html#a2d7431eddd5ca6d1ac206533ee0bad0e',1,'ray_hit::side()']]],
+  ['spread_1412',['spread',['../structgun.html#ac23d4d2c095d4b8a3bb065231f9bf921',1,'gun']]],
+  ['sprint_1413',['sprint',['../structkbd__ctrl__state.html#ad938f2da55f7a16cff1fcc81f918870d',1,'kbd_ctrl_state']]],
+  ['sprite_1414',['sprite',['../structrender.html#aea0d55ed5eb92b131b710a6bb0585782',1,'render::sprite()'],['../structanimated__sprite.html#aea0d55ed5eb92b131b710a6bb0585782',1,'animated_sprite::sprite()']]],
+  ['sprites_1415',['sprites',['../structplayer__info.html#a586f3ee74cd2641ab92e47eabcd8145d',1,'player_info']]],
+  ['state_1416',['state',['../structgun__instance.html#a084eb1210bf07b4447bb47ff029d45f0',1,'gun_instance::state()'],['../structanimated__sprite.html#ae9c624df6bc28bc8824505b0db13e9f2',1,'animated_sprite::state()'],['../group__game__manager.html#ga76708844828e7aa85e43b7e3a6779293',1,'state():&#160;game_manager.h'],['../networking_8c.html#a4eb6a755812ee25da2d79f002fcf8477',1,'state():&#160;networking.c']]],
+  ['state_5fgame_1417',['state_game',['../render_8c.html#ad9f0021887bc3b4f05f659b67a2b5f34',1,'render.c']]],
+  ['step_1418',['step',['../structline__tex.html#a4736138d712d9ee570d0652f08a4786a',1,'line_tex']]],
+  ['subscribe_5fresult_1419',['subscribe_result',['../timer_8c.html#add44ba135973d7bd64e5c39c500d3217',1,'timer.c']]]
+];

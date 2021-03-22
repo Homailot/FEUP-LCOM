@@ -1,0 +1,13 @@
+<map id="free_sprites" name="free_sprites">
+<area shape="rect" id="node1" title=" " alt="" coords="5,233,95,260"/>
+<area shape="rect" id="node2" href="$sprites_8c.html#a8899b87df8f2a3c73e38e8d73390249d" title="Frees the memory allocated by load_background()" alt="" coords="162,5,279,32"/>
+<area shape="rect" id="node3" href="$sprites_8c.html#aeb404676ecaf48d6fb8ade209c08f857" title="Frees the memory allocated by init_cursor_sprite." alt="" coords="158,56,283,83"/>
+<area shape="rect" id="node4" href="$sprites_8c.html#ac56264803dc2ec73f5d6fb2305df1d55" title="Frees the memory allocated by init_gun_menu_sprites()" alt="" coords="143,107,299,133"/>
+<area shape="rect" id="node5" href="$sprites_8c.html#aa207b8081c0afce0d97a478466121caf" title="Frees the memory allocated by load_gun_sprites()" alt="" coords="162,157,279,184"/>
+<area shape="rect" id="node6" href="$sprites_8c.html#abe8769cf9274f7a81d6f346df618e80a" title="Frees the memory allocated by load_hud_sprite()" alt="" coords="165,208,276,235"/>
+<area shape="rect" id="node7" href="$sprites_8c.html#aade8e182094953fe1aedcd5486eb0f75" title="Frees the memory allocated by load_menu_sprites()" alt="" coords="157,259,285,285"/>
+<area shape="rect" id="node8" href="$sprites_8c.html#a4ab24184395ed49571d2715b2c28b811" title="Frees the memory allocated by load_numbers_sprites()" alt="" coords="147,309,294,336"/>
+<area shape="rect" id="node9" href="$sprites_8c.html#a3126c8d4554e2bff2b616b9fcd364b23" title="Frees the memory allocated by load_pickup_sprites." alt="" coords="153,360,288,387"/>
+<area shape="rect" id="node10" href="$sprites_8c.html#a64bb735e08ed12b146389eebddd23d43" title="Frees the memory allocated by init_player_sprites()" alt="" coords="155,411,286,437"/>
+<area shape="rect" id="node11" href="$sprites_8c.html#a934c62ac9c8addefbb968a312e9f4ec4" title="Free wall textures." alt="" coords="158,461,283,488"/>
+</map>

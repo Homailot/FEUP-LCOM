@@ -1,0 +1,6 @@
+<map id="disable_ms" name="disable_ms">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,93,32"/>
+<area shape="rect" id="node2" href="$group__kbc.html#gacc37572edf283d47553607653b0e0896" title="Issues a command to the kbc." alt="" coords="141,5,251,32"/>
+<area shape="rect" id="node3" href="$kbc_8c.html#a8f76f0cf7459ffa3ce7925527bd66d21" title=" " alt="" coords="299,5,409,32"/>
+<area shape="rect" id="node4" href="$group__utils.html#ga8255c513be63fab6591e01f8539f0c64" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="457,5,548,32"/>
+</map>

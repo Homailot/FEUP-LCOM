@@ -1,0 +1,14 @@
+<map id="get_state" name="get_state">
+<area shape="rect" id="node1" title="Gets the current game state." alt="" coords="875,181,951,207"/>
+<area shape="rect" id="node2" href="$group__render.html#gacde478f6e658ba455a80592a313a0bec" title="General function that renders the screen Chooses what to render based on the state of the game." alt="" coords="379,193,442,219"/>
+<area shape="rect" id="node3" href="$group__game__manager.html#ga72c1b0483c8b85ff380edd7ac1ee64f1" title="Handles the game&#39;s functions and changes the game&#39;s state according to input and current state." alt="" coords="185,218,288,245"/>
+<area shape="rect" id="node4" href="$group__game__manager.html#gae863255901fecfdd13f5ecdc0b3b034f" title="Handles interrupts and is essentially the main game loop." alt="" coords="5,54,124,81"/>
+<area shape="rect" id="node5" href="$group__inv__menu.html#gacf9a8815153ec55160f7d9d1a3dc7221" title="Display gun selection menu." alt="" coords="695,257,797,283"/>
+<area shape="rect" id="node6" href="$render_8c.html#a28fb48f4f5279b10ffe7d45056a74e3b" title=" " alt="" coords="520,257,617,283"/>
+<area shape="rect" id="node7" href="$group__controls.html#gae398f88dfedca193e8331351d141bb6a" title="Parses keyboard data Finds usefull information for movement and interaction and activates variables i..." alt="" coords="680,54,812,81"/>
+<area shape="rect" id="node9" href="$group__player.html#ga9c5e03267d9da4e33f447e7b6ef0ce81" title="Player int handler Analyses controls and moves, shoots and select animations that should be played ac..." alt="" coords="521,333,616,359"/>
+<area shape="rect" id="node12" href="$group__main__menu.html#ga440214e655ee6548a258e9024537fccc" title="Renders a win/lose screen according to the player&#39;s condition." alt="" coords="665,155,827,182"/>
+<area shape="rect" id="node8" href="$group__controls.html#ga9595f0af09d270f689d1a7dbea567492" title="Handles a mouse event after an interrupt Calls mouse_ih() Evaluates important information such as cur..." alt="" coords="172,54,301,81"/>
+<area shape="rect" id="node10" href="$group__player.html#gac0c234692f894d10aba0383114063dfb" title="Handle bots events." alt="" coords="371,294,450,321"/>
+<area shape="rect" id="node11" href="$group__networking.html#gab1688aafeb84ecc5a700fe53d67d76dc" title="Receives data from the enemy player." alt="" coords="349,345,472,371"/>
+</map>

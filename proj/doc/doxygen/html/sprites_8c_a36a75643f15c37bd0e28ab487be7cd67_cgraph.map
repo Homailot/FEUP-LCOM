@@ -1,0 +1,5 @@
+<map id="load_pickup_sprites" name="load_pickup_sprites">
+<area shape="rect" id="node1" title="Loads, allocates and stores the sprites relevant to the pickups." alt="" coords="5,5,143,32"/>
+<area shape="rect" id="node2" href="$sprites_8c.html#a88245bef3e7be1dcbdde8c8ffb5e9376" title="Loads a sprite from a xpm data type." alt="" coords="191,5,276,32"/>
+<area shape="rect" id="node3" href="$group__utils.html#gaa7d3a1241d0d352a5d9e1400ec965ea5" title="Converts int24_t to uint32_t." alt="" coords="324,5,403,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="binary_to_bcd" name="binary_to_bcd">
+<area shape="rect" id="node1" title="Converts a binary number to bcd mode." alt="" coords="155,5,257,32"/>
+<area shape="rect" id="node2" href="$group__rtc.html#ga06dc03eadc84835c757c4c4bab89e66d" title="Enables an alarm interrupt." alt="" coords="5,5,107,32"/>
+</map>

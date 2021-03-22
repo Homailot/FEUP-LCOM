@@ -1,0 +1,4 @@
+<map id="timer_get_conf" name="timer_get_conf">
+<area shape="rect" id="node1" title="Reads the input timer configuration (status) via read&#45;back command." alt="" coords="5,5,112,32"/>
+<area shape="rect" id="node2" href="$group__utils.html#ga8255c513be63fab6591e01f8539f0c64" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="160,5,251,32"/>
+</map>

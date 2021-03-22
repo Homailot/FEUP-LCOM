@@ -1,0 +1,7 @@
+<map id="init_medi_anims" name="init_medi_anims">
+<area shape="rect" id="node1" title=" " alt="" coords="424,31,540,57"/>
+<area shape="rect" id="node2" href="$group__pickups.html#ga9d19e12ba7f1ebc57e93a87df3ff5f88" title="Adds medkit to the pickups." alt="" coords="287,31,376,57"/>
+<area shape="rect" id="node3" href="$level__manager_8c.html#a9b8cc51da4a483bf58753035b27647b5" title=" " alt="" coords="132,5,239,32"/>
+<area shape="rect" id="node5" href="$group__init__lvl.html#ga95f29e94f6f0c3ef4d49f8f8ca9eed80" title="Setup level 2." alt="" coords="132,56,239,83"/>
+<area shape="rect" id="node4" href="$group__init__lvl.html#ga549b3f664f9bd3be08c458aac824ae77" title="Loads a specified level." alt="" coords="5,31,84,57"/>
+</map>

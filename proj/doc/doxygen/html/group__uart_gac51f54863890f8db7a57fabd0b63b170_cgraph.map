@@ -1,0 +1,9 @@
+<map id="uart_safe_transmit" name="uart_safe_transmit">
+<area shape="rect" id="node1" title="Sends a byte to be transmitted by the uart, checking if it is empty, or pushing it to a queue...." alt="" coords="5,56,135,83"/>
+<area shape="rect" id="node2" href="$group__uart.html#ga55e1de5244f22273359fc7e551fff35b" title="Checks if the transmitter empty interrupt was received, but nothing was sent." alt="" coords="186,5,313,32"/>
+<area shape="rect" id="node3" href="$group__uart.html#ga93d1cac3ea8d377968e39c176839d9b2" title="Adds a byte to the transmit queue." alt="" coords="183,56,316,83"/>
+<area shape="rect" id="node5" href="$group__uart.html#gacd6626f92c53f285e26a279e8715a22d" title="Sends a byte through the UART." alt="" coords="194,107,305,133"/>
+<area shape="rect" id="node4" href="$group__queue.html#gaa56eff9ccc07fae1cefc3ef3007d51b2" title="Adds an element to the back of the given queue." alt="" coords="387,56,479,83"/>
+<area shape="rect" id="node6" href="$group__uart.html#gacbcd347c09757730bf735a3fe97007f6" title="Gets the line status from the LSR register of the UART." alt="" coords="364,107,503,133"/>
+<area shape="rect" id="node7" href="$group__utils.html#ga8255c513be63fab6591e01f8539f0c64" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="551,107,641,133"/>
+</map>

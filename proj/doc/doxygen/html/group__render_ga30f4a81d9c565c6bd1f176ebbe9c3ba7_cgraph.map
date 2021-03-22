@@ -1,0 +1,6 @@
+<map id="render_number" name="render_number">
+<area shape="rect" id="node1" title="Function to render a number." alt="" coords="5,31,113,57"/>
+<area shape="rect" id="node2" href="$group__utils.html#ga70531e40f93a8a0fa10a536371e484e3" title="Returns the digits of the number in an array." alt="" coords="174,5,237,32"/>
+<area shape="rect" id="node3" href="$group__video__graphics.html#gade1dd2f68eb9153aeb5db5f5d541ca6b" title="Draws a sprite on the screen." alt="" coords="161,56,249,83"/>
+<area shape="rect" id="node4" href="$group__video__graphics.html#gae94376b8b22b2414b6a4a53d867fe672" title="Sets a pixel to a desired color in a position of the page buffer." alt="" coords="297,56,359,83"/>
+</map>

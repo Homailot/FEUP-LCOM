@@ -1,0 +1,8 @@
+<map id="add_ammo" name="add_ammo">
+<area shape="rect" id="node1" title="Adds ammo to the pickups." alt="" coords="5,56,92,83"/>
+<area shape="rect" id="node2" href="$group__pickups.html#ga46369825145dfd4934c290b913a536da" title="Adds pickup to pickup array and sets its position in the collision table." alt="" coords="158,31,246,57"/>
+<area shape="rect" id="node6" href="$pickups_8c.html#a90d32589ed0e062d0847d317665c5f8c" title=" " alt="" coords="140,81,264,108"/>
+<area shape="rect" id="node3" href="$pickups_8c.html#a1f16da8c2949c6e5af9b821d2f8a0678" title=" " alt="" coords="312,31,409,57"/>
+<area shape="rect" id="node4" href="$group__utils.html#ga636e50c87bfc905b35ec485d29f65c7c" title="Checks if a circle and a rectangle collide. SOURCE: https://www.lazyfoo.net/tutorials/SDL/29_circular..." alt="" coords="457,5,636,32"/>
+<area shape="rect" id="node5" href="$group__pickups.html#gab9626ff0fdcef5d288391f7d524d0807" title="Picks up an item with a given index." alt="" coords="497,56,596,83"/>
+</map>

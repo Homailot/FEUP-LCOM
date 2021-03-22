@@ -1,0 +1,9 @@
+<map id="uart_send_string" name="uart_send_string">
+<area shape="rect" id="node1" title="Sends a string to the uart Useful when a game ends to confirm and reduce sync errors." alt="" coords="5,31,124,57"/>
+<area shape="rect" id="node2" href="$group__uart.html#ga93d1cac3ea8d377968e39c176839d9b2" title="Adds a byte to the transmit queue." alt="" coords="349,5,483,32"/>
+<area shape="rect" id="node4" href="$group__uart.html#gac51f54863890f8db7a57fabd0b63b170" title="Sends a byte to be transmitted by the uart, checking if it is empty, or pushing it to a queue...." alt="" coords="172,56,301,83"/>
+<area shape="rect" id="node3" href="$group__queue.html#gaa56eff9ccc07fae1cefc3ef3007d51b2" title="Adds an element to the back of the given queue." alt="" coords="554,5,646,32"/>
+<area shape="rect" id="node5" href="$group__uart.html#ga55e1de5244f22273359fc7e551fff35b" title="Checks if the transmitter empty interrupt was received, but nothing was sent." alt="" coords="353,56,479,83"/>
+<area shape="rect" id="node6" href="$group__uart.html#gacd6626f92c53f285e26a279e8715a22d" title="Sends a byte through the UART." alt="" coords="361,107,471,133"/>
+<area shape="rect" id="node7" href="$group__uart.html#gacbcd347c09757730bf735a3fe97007f6" title="Gets the line status from the LSR register of the UART." alt="" coords="531,107,669,133"/>
+</map>

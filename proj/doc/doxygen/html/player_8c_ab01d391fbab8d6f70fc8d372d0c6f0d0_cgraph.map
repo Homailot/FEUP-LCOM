@@ -1,0 +1,5 @@
+<map id="player_wall_collision" name="player_wall_collision">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,145,57"/>
+<area shape="rect" id="node2" href="$group__utils.html#ga3c96b90f01ff8b5abeca826e1b7075dc" title="Finds the closest distances of a circle to a rectangle." alt="" coords="193,5,332,32"/>
+<area shape="rect" id="node3" href="$group__utils.html#ga05035055a0f7d39c4055195d0879026b" title=" " alt="" coords="199,56,326,83"/>
+</map>

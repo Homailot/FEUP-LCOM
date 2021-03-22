@@ -1,0 +1,12 @@
+<map id="uart_ih" name="uart_ih">
+<area shape="rect" id="node1" title="Uart interrupt handler." alt="" coords="5,183,67,209"/>
+<area shape="rect" id="node2" href="$group__queue.html#ga6286b9bdcf30be36b25602dd580f2c56" title="Checks if the given queue is empty." alt="" coords="126,5,226,32"/>
+<area shape="rect" id="node3" href="$group__queue.html#ga1f8c483049e5b4ec2bd3d6159a8bb78a" title="Gets the element at the front of the given queue." alt="" coords="131,56,221,83"/>
+<area shape="rect" id="node4" href="$group__queue.html#gaafb1cfdccbd2de8cb2d8fcd97971193c" title="Removes the element at the front of the given queue." alt="" coords="133,107,219,133"/>
+<area shape="rect" id="node5" href="$group__queue.html#gaa56eff9ccc07fae1cefc3ef3007d51b2" title="Adds an element to the back of the given queue." alt="" coords="130,157,222,184"/>
+<area shape="rect" id="node6" href="$group__uart.html#ga5b0a0e3fee0afce78777454d402cd23a" title="Gets the interruption identifier." alt="" coords="301,233,408,260"/>
+<area shape="rect" id="node8" href="$group__uart.html#gacbcd347c09757730bf735a3fe97007f6" title="Gets the line status from the LSR register of the UART." alt="" coords="285,309,424,336"/>
+<area shape="rect" id="node9" href="$group__uart.html#gad06b393cc2ec87aa4f9981c0c09bf87d" title="Checks and receives a byte from the UART." alt="" coords="115,360,237,387"/>
+<area shape="rect" id="node10" href="$group__uart.html#gacd6626f92c53f285e26a279e8715a22d" title="Sends a byte through the UART." alt="" coords="121,309,231,336"/>
+<area shape="rect" id="node7" href="$group__utils.html#ga8255c513be63fab6591e01f8539f0c64" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="472,309,563,336"/>
+</map>

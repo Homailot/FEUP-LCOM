@@ -1,0 +1,9 @@
+<map id="disable_data_reporting" name="disable_data_reporting">
+<area shape="rect" id="node1" title="Disables data reporting from mouse." alt="" coords="452,56,604,83"/>
+<area shape="rect" id="node2" href="$group__kbc.html#ga0ba507a1452118d05f08a89168e6068a" title="Enables remote mode from mouse." alt="" coords="295,5,402,32"/>
+<area shape="rect" id="node3" href="$group__kbc.html#ga311b6805afedcf13bf61fcb7594c3904" title="Enables stream mode from mouse." alt="" coords="295,56,402,83"/>
+<area shape="rect" id="node6" href="$group__kbc.html#gaa886e0aad4130c769c79ed691b9fc11e" title="Sets mouse to default values." alt="" coords="293,107,404,133"/>
+<area shape="rect" id="node4" href="$group__init__lvl.html#ga68cbf292baa1114d43f18837a866c318" title="Load modules of the game from the lib and initializes everything." alt="" coords="165,56,243,83"/>
+<area shape="rect" id="node5" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,81,115,108"/>
+<area shape="rect" id="node7" href="$group__init__lvl.html#ga88838a1d5a5f0bd9067b1d5dffe3874d" title="Free the memory allocated by load_game." alt="" coords="163,107,245,133"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="reset_rtc" name="reset_rtc">
+<area shape="rect" id="node1" title="Resets rtc to minix default." alt="" coords="5,5,79,32"/>
+<area shape="rect" id="node2" href="$rtc__controller_8c.html#a74a573498a58e5fbfddb5b4df754516a" title="Writes to a specified register." alt="" coords="127,5,223,32"/>
+<area shape="rect" id="node3" href="$rtc__controller_8c.html#a631c0518d64d59e412c38ec5ecd2e9b4" title="Chooses what register to use for the next operation." alt="" coords="271,5,357,32"/>
+</map>

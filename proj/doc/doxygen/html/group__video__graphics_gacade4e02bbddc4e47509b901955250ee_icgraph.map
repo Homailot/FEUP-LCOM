@@ -1,0 +1,11 @@
+<map id="draw_sprite_color_mask" name="draw_sprite_color_mask">
+<area shape="rect" id="node1" title="Draws a sprite on the screen, using its &#39;shape&#39; as a color mask." alt="" coords="691,107,853,133"/>
+<area shape="rect" id="node2" href="$group__render.html#ga7312ae0798b69b9b882f214132f3125c" title="Draws the mouse." alt="" coords="548,107,643,133"/>
+<area shape="rect" id="node3" href="$group__inv__menu.html#gacf9a8815153ec55160f7d9d1a3dc7221" title="Display gun selection menu." alt="" coords="361,5,464,32"/>
+<area shape="rect" id="node6" href="$group__main__menu.html#ga2634f5062e698234137ef135de54f55b" title="Renders the disconnected screen." alt="" coords="325,56,500,83"/>
+<area shape="rect" id="node7" href="$group__main__menu.html#ga81f52284cc492323c3f07322993acb95" title="Render the main menu." alt="" coords="364,107,461,133"/>
+<area shape="rect" id="node8" href="$group__main__menu.html#gadb38f25c0509fbd2a1cb8bf0867f084c" title="Renders the multiplayer connection screen." alt="" coords="135,157,258,184"/>
+<area shape="rect" id="node9" href="$group__main__menu.html#ga440214e655ee6548a258e9024537fccc" title="Renders a win/lose screen according to the player&#39;s condition." alt="" coords="116,208,277,235"/>
+<area shape="rect" id="node4" href="$render_8c.html#a28fb48f4f5279b10ffe7d45056a74e3b" title=" " alt="" coords="148,5,245,32"/>
+<area shape="rect" id="node5" href="$group__render.html#gacde478f6e658ba455a80592a313a0bec" title="General function that renders the screen Chooses what to render based on the state of the game." alt="" coords="5,107,68,133"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="uart_set_baud_rate" name="uart_set_baud_rate">
+<area shape="rect" id="node1" title="Sets the baud rate (rate of symbols) of the UART." alt="" coords="5,31,139,57"/>
+<area shape="rect" id="node2" href="$group__uart.html#ga2adc9a554374eb96a01f2502f4cc64ee" title="Gets the line control from the LCR register of the UART." alt="" coords="187,5,308,32"/>
+<area shape="rect" id="node4" href="$group__uart.html#ga9a2a361bff334aa99a9687d53f39d43d" title="Writes a control byte to the LCR register of the UART." alt="" coords="187,56,308,83"/>
+<area shape="rect" id="node3" href="$group__utils.html#ga8255c513be63fab6591e01f8539f0c64" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="356,5,447,32"/>
+</map>

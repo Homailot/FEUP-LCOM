@@ -1,0 +1,36 @@
+var sprites_8h =
+[
+    [ "animated_sprite", "structanimated__sprite.html", "structanimated__sprite" ],
+    [ "MAX_SPRITE_HEIGHT", "sprites_8h.html#a2c5a40d5d3d788b54cbb891c34e9332a", null ],
+    [ "MAX_SPRITE_WIDTH", "sprites_8h.html#a374398f90a1c040a8ec3d92b578ba7e3", null ],
+    [ "anim_state_t", "sprites_8h.html#abe2a41bd12619fc61559c8c3d73e052b", null ],
+    [ "animated_sprite_t", "sprites_8h.html#a66cd6afa3327cc5fcaf1827cbf66243b", null ],
+    [ "anim_state", "sprites_8h.html#aaf37eaa8b3448a22dc85c30282dc1467", [
+      [ "FINISHED", "sprites_8h.html#aaf37eaa8b3448a22dc85c30282dc1467adbd1812bee789fbf3548cf79d3f2b400", null ],
+      [ "PROGRESS", "sprites_8h.html#aaf37eaa8b3448a22dc85c30282dc1467adde29e2575d154d83c3b43f3046ac88b", null ]
+    ] ],
+    [ "free_background", "sprites_8h.html#afbff52c0b0de516960401e373971b612", null ],
+    [ "free_cursor_sprite", "sprites_8h.html#aeb404676ecaf48d6fb8ade209c08f857", null ],
+    [ "free_gun_menu_sprites", "sprites_8h.html#ac56264803dc2ec73f5d6fb2305df1d55", null ],
+    [ "free_gun_sprites", "sprites_8h.html#aa207b8081c0afce0d97a478466121caf", null ],
+    [ "free_hud_sprite", "sprites_8h.html#abe8769cf9274f7a81d6f346df618e80a", null ],
+    [ "free_menu_sprites", "sprites_8h.html#aade8e182094953fe1aedcd5486eb0f75", null ],
+    [ "free_numbers_sprites", "sprites_8h.html#a4ab24184395ed49571d2715b2c28b811", null ],
+    [ "free_pickup_sprites", "sprites_8h.html#a3126c8d4554e2bff2b616b9fcd364b23", null ],
+    [ "free_player_sprites", "sprites_8h.html#a64bb735e08ed12b146389eebddd23d43", null ],
+    [ "free_sprites", "sprites_8h.html#ab3537397a07ae4a370546b3d4c176812", null ],
+    [ "free_walls_sprites", "sprites_8h.html#a934c62ac9c8addefbb968a312e9f4ec4", null ],
+    [ "init_cursor_sprite", "sprites_8h.html#afab0c698094d4783bee25234c53a211a", null ],
+    [ "init_gun_menu_sprites", "sprites_8h.html#a0c201febe201da3463c676940cf0cc45", null ],
+    [ "init_walls_sprites", "sprites_8h.html#a7fe56d741ffd1e42463705c5b473d14c", null ],
+    [ "load_background", "sprites_8h.html#a191a90b286526db363252dde79d0648a", null ],
+    [ "load_gun_sprites", "sprites_8h.html#ad74a889f98625eb024f9cb5ebd00a98f", null ],
+    [ "load_hud_sprite", "sprites_8h.html#a561c88a87e8ded53480bf4413a5a827f", null ],
+    [ "load_menu_sprites", "sprites_8h.html#ab5dd496b6346fd57a4c538db4824e928", null ],
+    [ "load_numbers_sprites", "sprites_8h.html#ac8690d813b19c12954720f75f0421cdf", null ],
+    [ "load_pickup_sprites", "sprites_8h.html#a36a75643f15c37bd0e28ab487be7cd67", null ],
+    [ "load_player_sprites", "sprites_8h.html#a6f8ed2cd6bdff6aa0a2665257c301e99", null ],
+    [ "load_sprite", "sprites_8h.html#a88245bef3e7be1dcbdde8c8ffb5e9376", null ],
+    [ "load_sprites", "sprites_8h.html#a3d39d1edf4dd00233efcecf5a3f6507e", null ],
+    [ "update_anim", "sprites_8h.html#a3925e0fad2d1644ef177c141bf347f54", null ]
+];

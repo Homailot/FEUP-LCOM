@@ -1,0 +1,9 @@
+<map id="disable_data_reporting" name="disable_data_reporting">
+<area shape="rect" id="node1" title="Disables data reporting from mouse." alt="" coords="5,56,157,83"/>
+<area shape="rect" id="node2" href="$group__kbc.html#ga24097be75d63e9da8f179d3ad8565c6e" title="Issues a command to the kbc." alt="" coords="205,56,312,83"/>
+<area shape="rect" id="node3" href="$group__kbc.html#ga7b07c94533f5d4ceb7b46a70b4b782d1" title="Reads the return value of a command sent to the kbc." alt="" coords="361,107,468,133"/>
+<area shape="rect" id="node6" href="$group__kbc.html#gab43d0790802f444d8a1081215a5a41f3" title="Writes an argument to a command to the kbc." alt="" coords="363,5,466,32"/>
+<area shape="rect" id="node7" href="$group__kbc.html#gacc37572edf283d47553607653b0e0896" title="Issues a command to the kbc." alt="" coords="360,56,469,83"/>
+<area shape="rect" id="node4" href="$kbc_8c.html#a8f76f0cf7459ffa3ce7925527bd66d21" title=" " alt="" coords="517,56,628,83"/>
+<area shape="rect" id="node5" href="$group__utils.html#ga8255c513be63fab6591e01f8539f0c64" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="676,81,767,108"/>
+</map>

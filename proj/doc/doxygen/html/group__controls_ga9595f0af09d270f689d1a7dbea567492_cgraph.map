@@ -1,0 +1,10 @@
+<map id="handle_mouse_evt" name="handle_mouse_evt">
+<area shape="rect" id="node1" title="Handles a mouse event after an interrupt Calls mouse_ih() Evaluates important information such as cur..." alt="" coords="5,107,135,133"/>
+<area shape="rect" id="node2" href="$group__kbc.html#ga210374b50462acdedab00df64d5cea3c" title="Interrupt handler for the mouse." alt="" coords="209,56,288,83"/>
+<area shape="rect" id="node5" href="$group__controls.html#gae398f88dfedca193e8331351d141bb6a" title="Parses keyboard data Finds usefull information for movement and interaction and activates variables i..." alt="" coords="183,107,315,133"/>
+<area shape="rect" id="node7" href="$group__kbc.html#ga6bff07d04c9627767a074e443c4ed525" title="Turns a 3 byte array into a packet structure." alt="" coords="199,157,299,184"/>
+<area shape="rect" id="node3" href="$kbc_8c.html#a8f76f0cf7459ffa3ce7925527bd66d21" title=" " alt="" coords="363,5,473,32"/>
+<area shape="rect" id="node4" href="$group__utils.html#ga8255c513be63fab6591e01f8539f0c64" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="521,31,612,57"/>
+<area shape="rect" id="node6" href="$group__game__manager.html#ga38ecb21ef9dd077a8915329b7f4bc856" title="Gets the current game state." alt="" coords="380,107,456,133"/>
+<area shape="rect" id="node8" href="$group__kbc.html#ga9fbbab20b3bdce8db0c44fef7c426d30" title="Turns a 9 bit two&#39;s complement number to a 16 bit number." alt="" coords="370,157,466,184"/>
+</map>

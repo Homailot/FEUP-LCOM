@@ -1,0 +1,5 @@
+<map id="read_byte_kbc" name="read_byte_kbc">
+<area shape="rect" id="node1" title="Reads the return value of a command sent to the kbc." alt="" coords="5,31,112,57"/>
+<area shape="rect" id="node2" href="$kbc_8c.html#a8f76f0cf7459ffa3ce7925527bd66d21" title=" " alt="" coords="160,5,271,32"/>
+<area shape="rect" id="node3" href="$group__utils.html#ga8255c513be63fab6591e01f8539f0c64" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="319,31,409,57"/>
+</map>

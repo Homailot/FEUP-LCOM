@@ -1,0 +1,9 @@
+<map id="add_collision" name="add_collision">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,103,83"/>
+<area shape="rect" id="node2" href="$group__utils.html#ga636e50c87bfc905b35ec485d29f65c7c" title="Checks if a circle and a rectangle collide. SOURCE: https://www.lazyfoo.net/tutorials/SDL/29_circular..." alt="" coords="151,19,329,45"/>
+<area shape="rect" id="node4" href="$group__pickups.html#gab9626ff0fdcef5d288391f7d524d0807" title="Picks up an item with a given index." alt="" coords="191,81,289,108"/>
+<area shape="rect" id="node3" href="$group__utils.html#ga59fb492e30882202c6383ad08c51daba" title="Calculates the squared distance between two positions." alt="" coords="377,5,532,32"/>
+<area shape="rect" id="node5" href="$group__pickups.html#gabaad2397c96cecc428bf70438ceae16c" title="Removes a pickup from the collision table and ignores it in the pickup array." alt="" coords="403,56,506,83"/>
+<area shape="rect" id="node7" href="$group__pickups.html#ga7e410cbba27f1c0301e602c0fb99fe48" title="Function wrapper for calling a pickup handler based on its type using the chosen virtual table." alt="" coords="400,107,509,133"/>
+<area shape="rect" id="node6" href="$pickups_8c.html#a1275c0c885fd08b7bce164c6f8ef5aeb" title=" " alt="" coords="580,107,697,133"/>
+</map>

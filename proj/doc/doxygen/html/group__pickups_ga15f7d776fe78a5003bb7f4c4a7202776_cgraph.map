@@ -1,0 +1,9 @@
+<map id="add_armor" name="add_armor">
+<area shape="rect" id="node1" title="Adds armor to the pickups." alt="" coords="5,81,88,108"/>
+<area shape="rect" id="node2" href="$group__pickups.html#ga46369825145dfd4934c290b913a536da" title="Adds pickup to pickup array and sets its position in the collision table." alt="" coords="153,31,241,57"/>
+<area shape="rect" id="node6" href="$structarmor.html#a6e23c3cca074b7c35e743e3b0ab8d621" title="Armor to be added to the player." alt="" coords="149,81,245,108"/>
+<area shape="rect" id="node7" href="$pickups_8c.html#a30309441e8fd7bd97947d4c6480ccd5c" title=" " alt="" coords="136,132,257,159"/>
+<area shape="rect" id="node3" href="$pickups_8c.html#a1f16da8c2949c6e5af9b821d2f8a0678" title=" " alt="" coords="305,31,403,57"/>
+<area shape="rect" id="node4" href="$group__utils.html#ga636e50c87bfc905b35ec485d29f65c7c" title="Checks if a circle and a rectangle collide. SOURCE: https://www.lazyfoo.net/tutorials/SDL/29_circular..." alt="" coords="451,5,629,32"/>
+<area shape="rect" id="node5" href="$group__pickups.html#gab9626ff0fdcef5d288391f7d524d0807" title="Picks up an item with a given index." alt="" coords="491,56,589,83"/>
+</map>

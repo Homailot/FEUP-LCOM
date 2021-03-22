@@ -1,0 +1,7 @@
+<map id="init_player" name="init_player">
+<area shape="rect" id="node1" title="Function to construct a player or bot." alt="" coords="5,56,87,83"/>
+<area shape="rect" id="node2" href="$group__player.html#ga741785955cd6cfd8b3dfe9d59df0cc9a" title="Initializes player animations." alt="" coords="135,5,257,32"/>
+<area shape="rect" id="node3" href="$group__utils.html#ga04465e5fd27eba32fbc8881a753628ad" title=" " alt="" coords="157,56,235,83"/>
+<area shape="rect" id="node5" href="$group__controls.html#gab1d487a86a862ee11795b292d25d83c4" title="Gets the current settings." alt="" coords="138,107,254,133"/>
+<area shape="rect" id="node4" href="$group__utils.html#gafbdd1445e81cdd60b9e3c438dd03bf44" title="Calculates the vector magnitude." alt="" coords="305,56,379,83"/>
+</map>

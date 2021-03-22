@@ -1,0 +1,16 @@
+<map id="gm_reset_mp_game" name="gm_reset_mp_game">
+<area shape="rect" id="node1" title="Closes the multi player game." alt="" coords="5,233,145,260"/>
+<area shape="rect" id="node2" href="$group__init__lvl.html#gaa25d395d4fff08666e831e0cba1c7246" title="Free memory allocated by load level and setup_game_x." alt="" coords="220,183,295,209"/>
+<area shape="rect" id="node13" href="$group__player.html#gacb8a72cc8eae8676d943e23845c8dfaf" title="Initializes player controls to use in menus." alt="" coords="201,233,314,260"/>
+<area shape="rect" id="node14" href="$group__networking.html#ga358234c47378c480ac66aea26f83f309" title="Sets a network state." alt="" coords="193,284,321,311"/>
+<area shape="rect" id="node3" href="$group__map.html#ga4c3fd6e984b46aa72e7df0ff5ece2248" title="Correctly frees up memory used up by map." alt="" coords="393,5,478,32"/>
+<area shape="rect" id="node4" href="$group__rtc.html#gadf3868602df4df13d3e0e9ac762a42bb" title="Enables periodic interupts." alt="" coords="381,56,489,83"/>
+<area shape="rect" id="node7" href="$group__pickups.html#ga6101c5a21ab305c9507cb1952952b21c" title="Frees resources used up by the collision table." alt="" coords="369,157,501,184"/>
+<area shape="rect" id="node8" href="$group__enemy__controller.html#ga62bde0a93f3d0094e040e4eb0ff83486" title="Free the memory allocated by init_enemy()" alt="" coords="380,208,491,235"/>
+<area shape="rect" id="node9" href="$group__gun.html#ga5f3eef59d5772cde6ceab19343bd87d7" title=" " alt="" coords="379,259,492,285"/>
+<area shape="rect" id="node10" href="$group__pickups.html#ga8b2feb9d1ad2422ef992e479a8450f1f" title="Frees resources used up by the pickup array." alt="" coords="388,309,483,336"/>
+<area shape="rect" id="node11" href="$group__player.html#gaec15ac2a61f1645c0c63d662bce18c0b" title="Frees the memory allocated by init_player." alt="" coords="389,360,481,387"/>
+<area shape="rect" id="node12" href="$group__rtc.html#ga802d246565c5f9eebb04bdddc47d58c8" title="Reset periodic interrupts value." alt="" coords="387,107,484,133"/>
+<area shape="rect" id="node5" href="$rtc__controller_8c.html#adad2c3217dbca738d26832103ba7caf4" title="Reads a specified register." alt="" coords="550,56,645,83"/>
+<area shape="rect" id="node6" href="$rtc__controller_8c.html#a74a573498a58e5fbfddb5b4df754516a" title="Writes to a specified register." alt="" coords="549,107,645,133"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="get_pickup" name="get_pickup">
+<area shape="rect" id="node1" title="Gets a copy of a pickup from the pickup array given its index." alt="" coords="413,5,499,32"/>
+<area shape="rect" id="node2" href="$render_8c.html#ab5335ca64bd3b51c15e99a5fb124f633" title=" " alt="" coords="261,5,365,32"/>
+<area shape="rect" id="node3" href="$render_8c.html#a28fb48f4f5279b10ffe7d45056a74e3b" title=" " alt="" coords="116,5,213,32"/>
+<area shape="rect" id="node4" href="$group__render.html#gacde478f6e658ba455a80592a313a0bec" title="General function that renders the screen Chooses what to render based on the state of the game." alt="" coords="5,5,68,32"/>
+</map>

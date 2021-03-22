@@ -1,0 +1,6 @@
+<map id="init_rtc_vars" name="init_rtc_vars">
+<area shape="rect" id="node1" title="Initializes variables to the minix configuration to restore it later." alt="" coords="5,31,96,57"/>
+<area shape="rect" id="node2" href="$rtc__controller_8c.html#adad2c3217dbca738d26832103ba7caf4" title="Reads a specified register." alt="" coords="144,31,239,57"/>
+<area shape="rect" id="node3" href="$rtc__controller_8c.html#a631c0518d64d59e412c38ec5ecd2e9b4" title="Chooses what register to use for the next operation." alt="" coords="289,5,375,32"/>
+<area shape="rect" id="node4" href="$group__utils.html#ga8255c513be63fab6591e01f8539f0c64" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="287,56,377,83"/>
+</map>

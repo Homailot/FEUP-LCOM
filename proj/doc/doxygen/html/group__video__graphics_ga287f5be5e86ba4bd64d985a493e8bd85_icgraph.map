@@ -1,0 +1,4 @@
+<map id="darken_hor_line" name="darken_hor_line">
+<area shape="rect" id="node1" title="Darkens an horizontal line of the screen." alt="" coords="144,5,257,32"/>
+<area shape="rect" id="node2" href="$group__video__graphics.html#ga7138680fe546b9238619487699595be6" title="Darkens an area of the screen." alt="" coords="5,5,96,32"/>
+</map>

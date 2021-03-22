@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['nack_493',['NACK',['../group__i8042.html#ga958518a45b12053ae33606ee7cb68a55',1,'i8042.h']]],
+  ['name_494',['name',['../structgun.html#a5ac083a645d964373f022d03df4849c8',1,'gun']]],
+  ['network_5fpacket_495',['network_packet',['../structnetwork__packet.html',1,'']]],
+  ['network_5fpacket_5ft_496',['network_packet_t',['../group__networking.html#ga3274adfbbd367e2b125cc7536e57217a',1,'networking.h']]],
+  ['network_5fplayer_497',['NETWORK_PLAYER',['../group__player.html#gga5d6b3fe01985f28925beacd034916872af93c725f33df67486ee72b24b13b29d8',1,'player.h']]],
+  ['network_5fstate_498',['network_state',['../group__networking.html#gaa206fed80157f2ec09b8c258631f2ca0',1,'networking.h']]],
+  ['network_5fstate_5ft_499',['network_state_t',['../group__networking.html#gaaa6053f5b2a4be8c400a259767cba1d5',1,'networking.h']]],
+  ['networking_500',['Networking',['../group__networking.html',1,'']]],
+  ['networking_2ec_501',['networking.c',['../networking_8c.html',1,'']]],
+  ['networking_2eh_502',['networking.h',['../networking_8h.html',1,'']]],
+  ['new_5fvec_503',['new_vec',['../group__utils.html#gafbe125d15521239c7a8dd9bb5e213ff9',1,'new_vec(double x, double y):&#160;utils.c'],['../group__utils.html#gafbe125d15521239c7a8dd9bb5e213ff9',1,'new_vec(double x, double y):&#160;utils.c']]],
+  ['next_504',['next',['../structqueue__item.html#a39d75fa237832367d6ed91fc522f8f8e',1,'queue_item']]],
+  ['next_5flvl_5fmenu_505',['NEXT_LVL_MENU',['../group__game__manager.html#ggad0ed1832dd134806ad335cdcc1a59ad2a5a23410833a21bd762f1a696f722d46c',1,'game_manager.h']]],
+  ['no_5fammo_506',['NO_AMMO',['../group__gun.html#gga31c5a1c57be44350ceb28d67676cbea1ae4c5fc77d9aef618b3d0fb25c606a667',1,'gun.h']]],
+  ['normal_5fspeed_507',['normal_speed',['../structplayer__info.html#a4b14a36ff45c675a12c6df9e1cd44299',1,'player_info']]],
+  ['normalize_508',['normalize',['../group__utils.html#ga04465e5fd27eba32fbc8881a753628ad',1,'normalize(vector_t *v1):&#160;utils.c'],['../group__utils.html#ga04465e5fd27eba32fbc8881a753628ad',1,'normalize(vector_t *v1):&#160;utils.c']]],
+  ['num_5fanims_509',['num_anims',['../structgun.html#a8aaf5c42c55d07211114fb3f69ae6813',1,'gun::num_anims()'],['../structplayer__info.html#a8aaf5c42c55d07211114fb3f69ae6813',1,'player_info::num_anims()']]],
+  ['num_5fcontrollers_510',['num_controllers',['../enemy__controller_8c.html#aeeffffe3aedb06b24e115dad6f9b2c06',1,'enemy_controller.c']]],
+  ['num_5fenemies_511',['num_enemies',['../render_8c.html#a52926cdacb353cc75e5f58a687e3d2ce',1,'num_enemies():&#160;player.c'],['../player_8c.html#a52926cdacb353cc75e5f58a687e3d2ce',1,'num_enemies():&#160;player.c']]],
+  ['num_5ffig_512',['num_fig',['../structanimated__sprite.html#a471696e4c68e49412e22b66aaeec29ba',1,'animated_sprite']]],
+  ['num_5fof_5findexes_513',['num_of_indexes',['../structcollision__list.html#a2ea9a6c9201709cf9ede09c7be6023b8',1,'collision_list']]],
+  ['num_5fpositions_514',['num_positions',['../structenemy__ctrl.html#a5011d6010c0a1a884b868281cf1fcad4',1,'enemy_ctrl']]],
+  ['nums_5fpress_515',['nums_press',['../structkbd__ctrl__state.html#a8251b04b63d02d32ff3b8516d4196f8c',1,'kbd_ctrl_state']]]
+];

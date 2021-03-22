@@ -1,0 +1,7 @@
+<map id="draw_rect" name="draw_rect">
+<area shape="rect" id="node1" title="Draws a rectangle." alt="" coords="428,31,507,57"/>
+<area shape="rect" id="node2" href="$group__inv__menu.html#gacf9a8815153ec55160f7d9d1a3dc7221" title="Display gun selection menu." alt="" coords="269,5,372,32"/>
+<area shape="rect" id="node5" href="$group__render.html#ga956084638e1400aa8f1cc23a8aa8af24" title="Function to render a red crosshair The crosshair is always placed in the center of the screen accordi..." alt="" coords="261,56,380,83"/>
+<area shape="rect" id="node3" href="$render_8c.html#a28fb48f4f5279b10ffe7d45056a74e3b" title=" " alt="" coords="116,31,213,57"/>
+<area shape="rect" id="node4" href="$group__render.html#gacde478f6e658ba455a80592a313a0bec" title="General function that renders the screen Chooses what to render based on the state of the game." alt="" coords="5,31,68,57"/>
+</map>

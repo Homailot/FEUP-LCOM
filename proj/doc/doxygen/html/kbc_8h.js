@@ -1,0 +1,26 @@
+var kbc_8h =
+[
+    [ "disable_data_reporting", "group__kbc.html#ga213d5f0c93d25fe21ae6ee3ba7b50a15", null ],
+    [ "enable_data_reporting", "group__kbc.html#gabe20128c397b0e728b58316a8e1a6e14", null ],
+    [ "enable_ms", "group__kbc.html#ga5b0b01d812aabccf1cfc919a8dc39778", null ],
+    [ "enable_remote", "group__kbc.html#ga0ba507a1452118d05f08a89168e6068a", null ],
+    [ "enable_stream", "group__kbc.html#ga311b6805afedcf13bf61fcb7594c3904", null ],
+    [ "int9_to_int16", "group__kbc.html#ga9fbbab20b3bdce8db0c44fef7c426d30", null ],
+    [ "kb_subscribe_int", "group__kbc.html#ga4288c51a04e306fdcfbe85a9fd6eeca5", null ],
+    [ "kb_unsubscribe_int", "group__kbc.html#ga7cf9ff7b2a68cc388492c91756a55153", null ],
+    [ "kbc_disable_int", "group__kbc.html#gae6aa46128e97e272ec366fc3f6dffc17", null ],
+    [ "kbc_enable_int", "group__kbc.html#gac1f3794330dc976638a50235a592e5a1", null ],
+    [ "kbc_ih", "group__kbc.html#ga5761bd4aad91ac1d68916ad88f583d9f", null ],
+    [ "mouse_ih", "group__kbc.html#ga210374b50462acdedab00df64d5cea3c", null ],
+    [ "mouse_subscribe_int", "group__kbc.html#gac5955567884e2d9ee3f7e879a1bc389f", null ],
+    [ "mouse_unsubscribe_int", "group__kbc.html#ga3ecf823d80520009ae5e0d76ae40a3c3", null ],
+    [ "ms_set_default", "group__kbc.html#gaa886e0aad4130c769c79ed691b9fc11e", null ],
+    [ "parse_packet", "group__kbc.html#ga6bff07d04c9627767a074e443c4ed525", null ],
+    [ "read_byte_kbc", "group__kbc.html#ga7b07c94533f5d4ceb7b46a70b4b782d1", null ],
+    [ "read_ms_cmd", "group__kbc.html#ga46a7323cd02b3b0571b5b3c0aeae395d", null ],
+    [ "reset_cmd_byte", "group__kbc.html#ga1bd284075e40e0536abe332487bc7f3a", null ],
+    [ "write_arg_kbc", "group__kbc.html#gab43d0790802f444d8a1081215a5a41f3", null ],
+    [ "write_byte_kbc", "group__kbc.html#gacc37572edf283d47553607653b0e0896", null ],
+    [ "write_kbc_cmd_byte", "group__kbc.html#ga6e61e67551c9ec041de5a335f711b98a", null ],
+    [ "write_ms_cmd", "group__kbc.html#ga24097be75d63e9da8f179d3ad8565c6e", null ]
+];

@@ -1,0 +1,7 @@
+<map id="rtc_int_cause" name="rtc_int_cause">
+<area shape="rect" id="node1" title="Gets the cause of the interrupt." alt="" coords="432,31,532,57"/>
+<area shape="rect" id="node2" href="$group__rtc.html#ga46a3900840f7cfabdc6225622ffd88c6" title="RTC Interrupt handler." alt="" coords="329,31,384,57"/>
+<area shape="rect" id="node3" href="$group__init__lvl.html#ga68cbf292baa1114d43f18837a866c318" title="Load modules of the game from the lib and initializes everything." alt="" coords="183,5,261,32"/>
+<area shape="rect" id="node5" href="$group__game__manager.html#gae863255901fecfdd13f5ecdc0b3b034f" title="Handles interrupts and is essentially the main game loop." alt="" coords="163,56,281,83"/>
+<area shape="rect" id="node4" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,31,115,57"/>
+</map>

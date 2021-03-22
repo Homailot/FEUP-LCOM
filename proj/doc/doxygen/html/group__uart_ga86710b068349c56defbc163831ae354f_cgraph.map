@@ -1,0 +1,4 @@
+<map id="init_uart_queues" name="init_uart_queues">
+<area shape="rect" id="node1" title="Initializes the queues related to the uart." alt="" coords="5,5,123,32"/>
+<area shape="rect" id="node2" href="$group__queue.html#ga78162f5d742f34b629e4eebe11965afd" title="Creates a queue structure." alt="" coords="171,5,252,32"/>
+</map>

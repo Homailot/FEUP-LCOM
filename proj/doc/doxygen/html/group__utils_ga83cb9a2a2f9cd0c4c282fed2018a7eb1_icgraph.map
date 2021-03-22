@@ -1,0 +1,9 @@
+<map id="abs_double" name="abs_double">
+<area shape="rect" id="node1" title="Returns the absolute value of a double." alt="" coords="561,31,649,57"/>
+<area shape="rect" id="node2" href="$enemy__controller_8c.html#a8f477198da95018a46c840051fe87e48" title=" " alt="" coords="407,5,513,32"/>
+<area shape="rect" id="node5" href="$group__player.html#ga8b5ccdaa7a949a8ae5c4793cbb684f03" title="Verifies if the second player was hit by a shot taken by p1 Calculates tangent points of p2 and verif..." alt="" coords="421,56,499,83"/>
+<area shape="rect" id="node3" href="$group__enemy__controller.html#gae66f73d164ac1793c1bfcce5fed69b9a" title="Handles all of the enemies Calls handle_enemy in each of the controllers to do operations over them." alt="" coords="156,5,272,32"/>
+<area shape="rect" id="node4" href="$group__game__manager.html#ga72c1b0483c8b85ff380edd7ac1ee64f1" title="Handles the game&#39;s functions and changes the game&#39;s state according to input and current state." alt="" coords="5,31,108,57"/>
+<area shape="rect" id="node6" href="$player_8c.html#a5a0896a4fea7ec7f208ba8c983a10023" title=" " alt="" coords="320,56,359,83"/>
+<area shape="rect" id="node7" href="$group__player.html#ga9c5e03267d9da4e33f447e7b6ef0ce81" title="Player int handler Analyses controls and moves, shoots and select animations that should be played ac..." alt="" coords="167,56,261,83"/>
+</map>

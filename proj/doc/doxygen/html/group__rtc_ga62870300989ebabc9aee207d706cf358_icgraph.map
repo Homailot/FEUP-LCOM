@@ -1,0 +1,9 @@
+<map id="reset_rtc" name="reset_rtc">
+<area shape="rect" id="node1" title="Resets rtc to minix default." alt="" coords="603,31,676,57"/>
+<area shape="rect" id="node2" href="$group__init__lvl.html#ga88838a1d5a5f0bd9067b1d5dffe3874d" title="Free the memory allocated by load_game." alt="" coords="329,5,412,32"/>
+<area shape="rect" id="node4" href="$group__rtc.html#gabd60fbccb2827cddc3cc82949a9e6115" title="Sets the date on a date_t object." alt="" coords="460,56,555,83"/>
+<area shape="rect" id="node3" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,56,115,83"/>
+<area shape="rect" id="node5" href="$group__rtc.html#ga46a3900840f7cfabdc6225622ffd88c6" title="RTC Interrupt handler." alt="" coords="343,56,398,83"/>
+<area shape="rect" id="node6" href="$group__init__lvl.html#ga68cbf292baa1114d43f18837a866c318" title="Load modules of the game from the lib and initializes everything." alt="" coords="183,56,261,83"/>
+<area shape="rect" id="node7" href="$group__game__manager.html#gae863255901fecfdd13f5ecdc0b3b034f" title="Handles interrupts and is essentially the main game loop." alt="" coords="163,107,281,133"/>
+</map>

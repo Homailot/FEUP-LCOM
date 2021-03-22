@@ -1,0 +1,6 @@
+<map id="free_player_sprites" name="free_player_sprites">
+<area shape="rect" id="node1" title="Frees the memory allocated by init_player_sprites()" alt="" coords="431,5,561,32"/>
+<area shape="rect" id="node2" href="$sprites_8h.html#ab3537397a07ae4a370546b3d4c176812" title=" " alt="" coords="293,5,383,32"/>
+<area shape="rect" id="node3" href="$group__init__lvl.html#ga88838a1d5a5f0bd9067b1d5dffe3874d" title="Free the memory allocated by load_game." alt="" coords="163,5,245,32"/>
+<area shape="rect" id="node4" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,115,32"/>
+</map>

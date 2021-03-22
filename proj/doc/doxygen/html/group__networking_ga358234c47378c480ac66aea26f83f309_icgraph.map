@@ -1,0 +1,11 @@
+<map id="set_network_state" name="set_network_state">
+<area shape="rect" id="node1" title="Sets a network state." alt="" coords="852,81,980,107"/>
+<area shape="rect" id="node2" href="$group__game__manager.html#ga72c1b0483c8b85ff380edd7ac1ee64f1" title="Handles the game&#39;s functions and changes the game&#39;s state according to input and current state." alt="" coords="329,55,432,82"/>
+<area shape="rect" id="node5" href="$group__game__manager.html#gaf1aa267b17d0e1d99c23239ed18bbd4c" title="Closes the multi player game." alt="" coords="664,55,804,82"/>
+<area shape="rect" id="node7" href="$group__main__menu.html#gadb38f25c0509fbd2a1cb8bf0867f084c" title="Renders the multiplayer connection screen." alt="" coords="673,106,795,133"/>
+<area shape="rect" id="node9" href="$group__networking.html#gab1688aafeb84ecc5a700fe53d67d76dc" title="Receives data from the enemy player." alt="" coords="487,157,609,183"/>
+<area shape="rect" id="node3" href="$group__game__manager.html#gae863255901fecfdd13f5ecdc0b3b034f" title="Handles interrupts and is essentially the main game loop." alt="" coords="163,55,281,82"/>
+<area shape="rect" id="node4" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,55,115,82"/>
+<area shape="rect" id="node6" href="$group__game__manager.html#ga18feb8bfb124d4bc47d1cbe47c6316d3" title="Updates the game state based on actions made by the players." alt="" coords="480,55,616,82"/>
+<area shape="rect" id="node8" href="$group__render.html#gacde478f6e658ba455a80592a313a0bec" title="General function that renders the screen Chooses what to render based on the state of the game." alt="" coords="517,106,579,133"/>
+</map>

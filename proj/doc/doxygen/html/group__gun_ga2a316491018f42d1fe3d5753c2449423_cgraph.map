@@ -1,0 +1,5 @@
+<map id="update_gun_state" name="update_gun_state">
+<area shape="rect" id="node1" title="Function called to update a gun&#39;s state Call this function upon after trying to shoot a bullet." alt="" coords="5,31,131,57"/>
+<area shape="rect" id="node2" href="$group__gun.html#ga44124065ed00881eedbcc5f513010095" title="Function to reload the gun." alt="" coords="184,5,269,32"/>
+<area shape="rect" id="node3" href="$sprites_8c.html#a3925e0fad2d1644ef177c141bf347f54" title=" " alt="" coords="179,56,275,83"/>
+</map>

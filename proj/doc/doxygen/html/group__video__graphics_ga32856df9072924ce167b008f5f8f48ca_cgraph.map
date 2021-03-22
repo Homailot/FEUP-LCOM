@@ -1,0 +1,4 @@
+<map id="get_mem_size" name="get_mem_size">
+<area shape="rect" id="node1" title="Returns memory size." alt="" coords="5,5,112,32"/>
+<area shape="rect" id="node2" href="$group__video__graphics.html#ga23e324277ae9a5d88450f28d4219df1a" title="Returns number of bytes needed to represent that ammout of bits." alt="" coords="160,5,259,32"/>
+</map>

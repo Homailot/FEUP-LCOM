@@ -1,0 +1,10 @@
+<map id="add_collision" name="add_collision">
+<area shape="rect" id="node1" title=" " alt="" coords="451,56,548,83"/>
+<area shape="rect" id="node2" href="$group__pickups.html#ga46369825145dfd4934c290b913a536da" title="Adds pickup to pickup array and sets its position in the collision table." alt="" coords="315,56,403,83"/>
+<area shape="rect" id="node3" href="$group__pickups.html#ga3ab719ad557476cedea1f35cfb64879e" title="Adds ammo to the pickups." alt="" coords="179,107,265,133"/>
+<area shape="rect" id="node7" href="$group__pickups.html#ga15f7d776fe78a5003bb7f4c4a7202776" title="Adds armor to the pickups." alt="" coords="181,56,263,83"/>
+<area shape="rect" id="node8" href="$group__pickups.html#ga9d19e12ba7f1ebc57e93a87df3ff5f88" title="Adds medkit to the pickups." alt="" coords="177,5,267,32"/>
+<area shape="rect" id="node4" href="$level__manager_8c.html#a9b8cc51da4a483bf58753035b27647b5" title=" " alt="" coords="14,56,121,83"/>
+<area shape="rect" id="node5" href="$group__init__lvl.html#ga95f29e94f6f0c3ef4d49f8f8ca9eed80" title="Setup level 2." alt="" coords="14,5,121,32"/>
+<area shape="rect" id="node6" href="$group__init__lvl.html#ga5376dd4c96f57dfbcd9669a71d43e47c" title="Setups multiplayer game mode and level." alt="" coords="5,107,129,133"/>
+</map>

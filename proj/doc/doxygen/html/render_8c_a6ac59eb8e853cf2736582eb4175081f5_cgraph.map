@@ -1,0 +1,8 @@
+<map id="render_object_renders" name="render_object_renders">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,156,83"/>
+<area shape="rect" id="node2" href="$group__video__graphics.html#ga4e6fd36273d96e23a55c931339e113a3" title="Draws a rectangle that darkens with distance and is not rendered behind walls." alt="" coords="204,31,328,57"/>
+<area shape="rect" id="node6" href="$group__video__graphics.html#ga7d41ca074d7dab2aaae7b2ed753e0f6b" title="Draws a sprite in a specified position of the map creating a distance between the player and that spr..." alt="" coords="207,81,325,108"/>
+<area shape="rect" id="node3" href="$group__video__graphics.html#ga56db136ae714bb071adb9103bd7ab68e" title="Darkens a color by a factor." alt="" coords="413,56,475,83"/>
+<area shape="rect" id="node4" href="$video__graphics_8c.html#acb8e891b0c668f05c7a6baf689a296ac" title=" " alt="" coords="376,5,512,32"/>
+<area shape="rect" id="node5" href="$group__video__graphics.html#gae94376b8b22b2414b6a4a53d867fe672" title="Sets a pixel to a desired color in a position of the page buffer." alt="" coords="560,56,621,83"/>
+</map>

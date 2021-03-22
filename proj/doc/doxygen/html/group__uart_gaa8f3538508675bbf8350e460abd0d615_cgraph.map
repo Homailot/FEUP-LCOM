@@ -1,0 +1,6 @@
+<map id="uart_recv_front" name="uart_recv_front">
+<area shape="rect" id="node1" title="Receives the front of the in_fifo." alt="" coords="5,56,112,83"/>
+<area shape="rect" id="node2" href="$group__queue.html#ga6286b9bdcf30be36b25602dd580f2c56" title="Checks if the given queue is empty." alt="" coords="160,5,260,32"/>
+<area shape="rect" id="node3" href="$group__queue.html#ga1f8c483049e5b4ec2bd3d6159a8bb78a" title="Gets the element at the front of the given queue." alt="" coords="165,56,255,83"/>
+<area shape="rect" id="node4" href="$group__queue.html#gaafb1cfdccbd2de8cb2d8fcd97971193c" title="Removes the element at the front of the given queue." alt="" coords="167,107,253,133"/>
+</map>

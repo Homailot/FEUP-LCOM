@@ -1,0 +1,7 @@
+<map id="enable_aie_int" name="enable_aie_int">
+<area shape="rect" id="node1" title="Enables alarm interrupts." alt="" coords="5,31,111,57"/>
+<area shape="rect" id="node2" href="$rtc__controller_8c.html#adad2c3217dbca738d26832103ba7caf4" title="Reads a specified register." alt="" coords="159,56,254,83"/>
+<area shape="rect" id="node5" href="$rtc__controller_8c.html#a74a573498a58e5fbfddb5b4df754516a" title="Writes to a specified register." alt="" coords="159,5,255,32"/>
+<area shape="rect" id="node3" href="$rtc__controller_8c.html#a631c0518d64d59e412c38ec5ecd2e9b4" title="Chooses what register to use for the next operation." alt="" coords="305,5,391,32"/>
+<area shape="rect" id="node4" href="$group__utils.html#ga8255c513be63fab6591e01f8539f0c64" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="303,56,393,83"/>
+</map>

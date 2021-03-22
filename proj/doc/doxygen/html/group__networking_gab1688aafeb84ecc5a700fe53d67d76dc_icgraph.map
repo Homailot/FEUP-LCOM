@@ -1,0 +1,6 @@
+<map id="uart_receive_data" name="uart_receive_data">
+<area shape="rect" id="node1" title="Receives data from the enemy player." alt="" coords="480,5,603,32"/>
+<area shape="rect" id="node2" href="$group__game__manager.html#ga72c1b0483c8b85ff380edd7ac1ee64f1" title="Handles the game&#39;s functions and changes the game&#39;s state according to input and current state." alt="" coords="329,5,432,32"/>
+<area shape="rect" id="node3" href="$group__game__manager.html#gae863255901fecfdd13f5ecdc0b3b034f" title="Handles interrupts and is essentially the main game loop." alt="" coords="163,5,281,32"/>
+<area shape="rect" id="node4" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,115,32"/>
+</map>

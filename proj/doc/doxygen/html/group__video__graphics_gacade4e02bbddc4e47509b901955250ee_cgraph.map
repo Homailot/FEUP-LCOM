@@ -1,0 +1,4 @@
+<map id="draw_sprite_color_mask" name="draw_sprite_color_mask">
+<area shape="rect" id="node1" title="Draws a sprite on the screen, using its &#39;shape&#39; as a color mask." alt="" coords="5,5,168,32"/>
+<area shape="rect" id="node2" href="$group__video__graphics.html#gae94376b8b22b2414b6a4a53d867fe672" title="Sets a pixel to a desired color in a position of the page buffer." alt="" coords="216,5,277,32"/>
+</map>
