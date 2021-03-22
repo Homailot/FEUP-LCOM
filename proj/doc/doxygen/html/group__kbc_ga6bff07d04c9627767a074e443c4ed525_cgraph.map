@@ -1,4 +1,0 @@
-<map id="parse_packet" name="parse_packet">
-<area shape="rect" id="node1" title="Turns a 3 byte array into a packet structure." alt="" coords="5,5,105,32"/>
-<area shape="rect" id="node2" href="$group__kbc.html#ga9fbbab20b3bdce8db0c44fef7c426d30" title="Turns a 9 bit two&#39;s complement number to a 16 bit number." alt="" coords="153,5,249,32"/>
-</map>

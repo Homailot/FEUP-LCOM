@@ -1,7 +1,0 @@
-<map id="rtc_set_periodic_500ms" name="rtc_set_periodic_500ms">
-<area shape="rect" id="node1" title="Set periodic interrupts to 500ms." alt="" coords="476,31,636,57"/>
-<area shape="rect" id="node2" href="$group__game__manager.html#ga4a323cc011b2f392e965546d02b1283a" title="Starts the game loop." alt="" coords="325,31,428,57"/>
-<area shape="rect" id="node3" href="$group__main__menu.html#ga81f52284cc492323c3f07322993acb95" title="Render the main menu." alt="" coords="148,5,245,32"/>
-<area shape="rect" id="node5" href="$group__main__menu.html#ga440214e655ee6548a258e9024537fccc" title="Renders a win/lose screen according to the player&#39;s condition." alt="" coords="116,56,277,83"/>
-<area shape="rect" id="node4" href="$group__render.html#gacde478f6e658ba455a80592a313a0bec" title="General function that renders the screen Chooses what to render based on the state of the game." alt="" coords="5,31,68,57"/>
-</map>

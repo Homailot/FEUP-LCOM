@@ -1,6 +1,0 @@
-<map id="render_hud" name="render_hud">
-<area shape="rect" id="node1" title="Renders the user interface in&#45;game." alt="" coords="412,5,499,32"/>
-<area shape="rect" id="node2" href="$render_8c.html#a28fb48f4f5279b10ffe7d45056a74e3b" title=" " alt="" coords="267,5,364,32"/>
-<area shape="rect" id="node3" href="$group__render.html#gacde478f6e658ba455a80592a313a0bec" title="General function that renders the screen Chooses what to render based on the state of the game." alt="" coords="156,5,219,32"/>
-<area shape="rect" id="node4" href="$group__game__manager.html#ga72c1b0483c8b85ff380edd7ac1ee64f1" title="Handles the game&#39;s functions and changes the game&#39;s state according to input and current state." alt="" coords="5,5,108,32"/>
-</map>

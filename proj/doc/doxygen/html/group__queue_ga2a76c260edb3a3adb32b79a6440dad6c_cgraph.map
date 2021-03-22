@@ -1,5 +1,0 @@
-<map id="queue_delete" name="queue_delete">
-<area shape="rect" id="node1" title="Frees memory allocated by the given queue&#39;s items, and the queue itself." alt="" coords="5,31,104,57"/>
-<area shape="rect" id="node2" href="$group__queue.html#ga6286b9bdcf30be36b25602dd580f2c56" title="Checks if the given queue is empty." alt="" coords="152,5,252,32"/>
-<area shape="rect" id="node3" href="$group__queue.html#gaafb1cfdccbd2de8cb2d8fcd97971193c" title="Removes the element at the front of the given queue." alt="" coords="159,56,245,83"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="init_player_ctrls" name="init_player_ctrls">
-<area shape="rect" id="node1" title="Initializes player controls to use in menus." alt="" coords="852,56,965,83"/>
-<area shape="rect" id="node2" href="$group__game__manager.html#gaf1aa267b17d0e1d99c23239ed18bbd4c" title="Closes the multi player game." alt="" coords="664,5,804,32"/>
-<area shape="rect" id="node6" href="$group__game__manager.html#ga18feb8bfb124d4bc47d1cbe47c6316d3" title="Updates the game state based on actions made by the players." alt="" coords="480,56,616,83"/>
-<area shape="rect" id="node7" href="$group__init__lvl.html#ga68cbf292baa1114d43f18837a866c318" title="Load modules of the game from the lib and initializes everything." alt="" coords="509,107,587,133"/>
-<area shape="rect" id="node3" href="$group__game__manager.html#ga72c1b0483c8b85ff380edd7ac1ee64f1" title="Handles the game&#39;s functions and changes the game&#39;s state according to input and current state." alt="" coords="329,56,432,83"/>
-<area shape="rect" id="node4" href="$group__game__manager.html#gae863255901fecfdd13f5ecdc0b3b034f" title="Handles interrupts and is essentially the main game loop." alt="" coords="163,56,281,83"/>
-<area shape="rect" id="node5" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,81,115,108"/>
-</map>

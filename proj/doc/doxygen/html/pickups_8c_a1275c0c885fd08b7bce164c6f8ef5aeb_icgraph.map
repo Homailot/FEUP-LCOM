@@ -1,8 +1,0 @@
-<map id="remove_collision" name="remove_collision">
-<area shape="rect" id="node1" title=" " alt="" coords="637,64,755,91"/>
-<area shape="rect" id="node2" href="$group__pickups.html#gabaad2397c96cecc428bf70438ceae16c" title="Removes a pickup from the collision table and ignores it in the pickup array." alt="" coords="487,39,589,65"/>
-<area shape="rect" id="node3" href="$group__pickups.html#gab9626ff0fdcef5d288391f7d524d0807" title="Picks up an item with a given index." alt="" coords="340,64,439,91"/>
-<area shape="rect" id="node4" href="$pickups_8c.html#a1f16da8c2949c6e5af9b821d2f8a0678" title=" " alt="" coords="171,5,269,32"/>
-<area shape="rect" id="node5" href="$group__pickups.html#ga3f9c10d31107f1923e5b650625b6cfbb" title="Checks if a player can pick up an item." alt="" coords="148,57,292,98"/>
-<area shape="rect" id="node6" href="$group__player.html#ga9c5e03267d9da4e33f447e7b6ef0ce81" title="Player int handler Analyses controls and moves, shoots and select animations that should be played ac..." alt="" coords="5,93,100,120"/>
-</map>

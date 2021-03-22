@@ -1,6 +1,0 @@
-<map id="pickup_index" name="pickup_index">
-<area shape="rect" id="node1" title="Picks up an item with a given index." alt="" coords="5,56,104,83"/>
-<area shape="rect" id="node2" href="$group__pickups.html#gabaad2397c96cecc428bf70438ceae16c" title="Removes a pickup from the collision table and ignores it in the pickup array." alt="" coords="155,5,258,32"/>
-<area shape="rect" id="node4" href="$group__pickups.html#ga7e410cbba27f1c0301e602c0fb99fe48" title="Function wrapper for calling a pickup handler based on its type using the chosen virtual table." alt="" coords="152,56,261,83"/>
-<area shape="rect" id="node3" href="$pickups_8c.html#a1275c0c885fd08b7bce164c6f8ef5aeb" title=" " alt="" coords="309,56,427,83"/>
-</map>

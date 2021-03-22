@@ -1,6 +1,0 @@
-<map id="render_crosshair" name="render_crosshair">
-<area shape="rect" id="node1" title="Function to render a red crosshair The crosshair is always placed in the center of the screen accordi..." alt="" coords="5,5,124,32"/>
-<area shape="rect" id="node2" href="$group__video__graphics.html#ga3d368be0ecb5cd1111ab542e1b60d1b9" title="Draws a rectangle." alt="" coords="172,5,251,32"/>
-<area shape="rect" id="node3" href="$group__video__graphics.html#ga5bf75b0121e2608e9921390ae9d1ecc3" title="Draws a horizontal line in the page buffer." alt="" coords="299,5,419,32"/>
-<area shape="rect" id="node4" href="$group__video__graphics.html#gae94376b8b22b2414b6a4a53d867fe672" title="Sets a pixel to a desired color in a position of the page buffer." alt="" coords="467,5,528,32"/>
-</map>

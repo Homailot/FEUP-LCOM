@@ -1,8 +1,0 @@
-<map id="init_player_anims" name="init_player_anims">
-<area shape="rect" id="node1" title="Initializes player animations." alt="" coords="433,56,556,83"/>
-<area shape="rect" id="node2" href="$group__player.html#gac0570d46aa1ecdfa1bb0762f09768727" title="Function to construct a player or bot." alt="" coords="304,56,385,83"/>
-<area shape="rect" id="node3" href="$level__manager_8c.html#a9b8cc51da4a483bf58753035b27647b5" title=" " alt="" coords="141,5,247,32"/>
-<area shape="rect" id="node5" href="$group__init__lvl.html#ga95f29e94f6f0c3ef4d49f8f8ca9eed80" title="Setup level 2." alt="" coords="141,56,247,83"/>
-<area shape="rect" id="node6" href="$group__init__lvl.html#ga5376dd4c96f57dfbcd9669a71d43e47c" title="Setups multiplayer game mode and level." alt="" coords="132,107,256,133"/>
-<area shape="rect" id="node4" href="$group__init__lvl.html#ga549b3f664f9bd3be08c458aac824ae77" title="Loads a specified level." alt="" coords="5,56,84,83"/>
-</map>

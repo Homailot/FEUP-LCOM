@@ -1,5 +1,0 @@
-<map id="degree" name="degree">
-<area shape="rect" id="node1" title="Calculates the angle of two vectors between &#45;180 and 180." alt="" coords="5,31,67,57"/>
-<area shape="rect" id="node2" href="$group__utils.html#ga258c131e5c160a0111647291e02531d9" title="Calculates the determinant of a 2x2 matrix." alt="" coords="115,5,205,32"/>
-<area shape="rect" id="node3" href="$group__utils.html#ga8089a1b15a7b4f1bce51d36dd8c0646d" title="Calculates the internal product of two vectors." alt="" coords="126,56,194,83"/>
-</map>

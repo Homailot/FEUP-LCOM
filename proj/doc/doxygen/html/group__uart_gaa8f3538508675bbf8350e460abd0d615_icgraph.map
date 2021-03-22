@@ -1,9 +1,0 @@
-<map id="uart_recv_front" name="uart_recv_front">
-<area shape="rect" id="node1" title="Receives the front of the in_fifo." alt="" coords="673,56,780,83"/>
-<area shape="rect" id="node2" href="$group__networking.html#gab1688aafeb84ecc5a700fe53d67d76dc" title="Receives data from the enemy player." alt="" coords="323,5,445,32"/>
-<area shape="rect" id="node5" href="$networking_8c.html#a57d58bb37b68f03fb52676cc5525ab8d" title=" " alt="" coords="493,56,625,83"/>
-<area shape="rect" id="node7" href="$networking_8c.html#ae1ad92d5042e636cf33024f1e1f7a30d" title=" " alt="" coords="506,107,613,133"/>
-<area shape="rect" id="node3" href="$group__game__manager.html#ga72c1b0483c8b85ff380edd7ac1ee64f1" title="Handles the game&#39;s functions and changes the game&#39;s state according to input and current state." alt="" coords="172,31,275,57"/>
-<area shape="rect" id="node4" href="$group__game__manager.html#gae863255901fecfdd13f5ecdc0b3b034f" title="Handles interrupts and is essentially the main game loop." alt="" coords="5,31,124,57"/>
-<area shape="rect" id="node6" href="$group__networking.html#ga271fee1f576eb183a23b4f8c9934d87c" title="Uart sync handler According to the state of the network, performs different operations to complete th..." alt="" coords="345,56,423,83"/>
-</map>

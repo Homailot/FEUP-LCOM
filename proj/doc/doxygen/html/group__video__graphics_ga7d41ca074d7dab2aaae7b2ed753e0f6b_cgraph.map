@@ -1,5 +1,0 @@
-<map id="draw_rect_sprite" name="draw_rect_sprite">
-<area shape="rect" id="node1" title="Draws a sprite in a specified position of the map creating a distance between the player and that spr..." alt="" coords="5,31,123,57"/>
-<area shape="rect" id="node2" href="$group__video__graphics.html#ga56db136ae714bb071adb9103bd7ab68e" title="Darkens a color by a factor." alt="" coords="171,5,232,32"/>
-<area shape="rect" id="node3" href="$group__video__graphics.html#gae94376b8b22b2414b6a4a53d867fe672" title="Sets a pixel to a desired color in a position of the page buffer." alt="" coords="171,56,232,83"/>
-</map>

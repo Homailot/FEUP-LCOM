@@ -1,4 +1,0 @@
-<map id="rtc_write_reg" name="rtc_write_reg">
-<area shape="rect" id="node1" title="Writes to a specified register." alt="" coords="5,5,101,32"/>
-<area shape="rect" id="node2" href="$rtc__controller_8c.html#a631c0518d64d59e412c38ec5ecd2e9b4" title="Chooses what register to use for the next operation." alt="" coords="149,5,236,32"/>
-</map>

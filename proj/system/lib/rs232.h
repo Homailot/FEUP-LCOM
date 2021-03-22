@@ -26,6 +26,7 @@
 #define FIFO_ONE_BYTE 0
 #define IIR_INT BIT(0)
 #define IIR_RECV_DATA_AVAIL BIT(2)
+#define IIR_CHAR_TIMEOUT BIT(2) | BIT(3)
 #define IIR_TRNSMT_EMPTY BIT(1)
 #define IIR_STATUS BIT(1) | BIT(2)
 #define INT_MASK (BIT(1) | BIT(2) | BIT(3))

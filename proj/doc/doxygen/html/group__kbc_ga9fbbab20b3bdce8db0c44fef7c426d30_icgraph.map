@@ -1,6 +1,0 @@
-<map id="int9_to_int16" name="int9_to_int16">
-<area shape="rect" id="node1" title="Turns a 9 bit two&#39;s complement number to a 16 bit number." alt="" coords="497,5,593,32"/>
-<area shape="rect" id="node2" href="$group__kbc.html#ga6bff07d04c9627767a074e443c4ed525" title="Turns a 3 byte array into a packet structure." alt="" coords="349,5,449,32"/>
-<area shape="rect" id="node3" href="$group__controls.html#ga9595f0af09d270f689d1a7dbea567492" title="Handles a mouse event after an interrupt Calls mouse_ih() Evaluates important information such as cur..." alt="" coords="172,5,301,32"/>
-<area shape="rect" id="node4" href="$group__game__manager.html#gae863255901fecfdd13f5ecdc0b3b034f" title="Handles interrupts and is essentially the main game loop." alt="" coords="5,5,124,32"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="render_timer" name="render_timer">
-<area shape="rect" id="node1" title=" " alt="" coords="5,52,100,79"/>
-<area shape="rect" id="node2" href="$group__video__graphics.html#gade1dd2f68eb9153aeb5db5f5d541ca6b" title="Draws a sprite on the screen." alt="" coords="336,27,424,53"/>
-<area shape="rect" id="node4" href="$group__game__manager.html#ga9ac38d81ade352c53fd66d869a4f469f" title="Returns memory addres of round timer." alt="" coords="161,128,275,155"/>
-<area shape="rect" id="node5" href="$group__render.html#ga30f4a81d9c565c6bd1f176ebbe9c3ba7" title="Function to render a number." alt="" coords="164,27,272,53"/>
-<area shape="rect" id="node7" href="$group__render.html#ga5d50ef7c5d9246f944b062868ab7f2bf" title="Function to render a number filling the initial gaps with 0." alt="" coords="148,77,288,104"/>
-<area shape="rect" id="node3" href="$group__video__graphics.html#gae94376b8b22b2414b6a4a53d867fe672" title="Sets a pixel to a desired color in a position of the page buffer." alt="" coords="472,27,533,53"/>
-<area shape="rect" id="node6" href="$group__utils.html#ga70531e40f93a8a0fa10a536371e484e3" title="Returns the digits of the number in an array." alt="" coords="349,77,411,104"/>
-</map>

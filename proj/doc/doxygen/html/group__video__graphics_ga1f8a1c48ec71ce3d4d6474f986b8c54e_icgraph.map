@@ -1,6 +1,0 @@
-<map id="page_flip" name="page_flip">
-<area shape="rect" id="node1" title="Swaps the page buffer with the drawing buffer." alt="" coords="393,5,467,32"/>
-<area shape="rect" id="node2" href="$group__video__graphics.html#ga0986e744d79851709baf9d4fbabdcad7" title="Puts the current buffer to the screen." alt="" coords="267,5,345,32"/>
-<area shape="rect" id="node3" href="$group__render.html#gacde478f6e658ba455a80592a313a0bec" title="General function that renders the screen Chooses what to render based on the state of the game." alt="" coords="156,5,219,32"/>
-<area shape="rect" id="node4" href="$group__game__manager.html#ga72c1b0483c8b85ff380edd7ac1ee64f1" title="Handles the game&#39;s functions and changes the game&#39;s state according to input and current state." alt="" coords="5,5,108,32"/>
-</map>

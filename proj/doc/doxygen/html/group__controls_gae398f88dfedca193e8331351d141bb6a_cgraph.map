@@ -1,4 +1,0 @@
-<map id="mouse_parse_data" name="mouse_parse_data">
-<area shape="rect" id="node1" title="Parses keyboard data Finds usefull information for movement and interaction and activates variables i..." alt="" coords="5,5,137,32"/>
-<area shape="rect" id="node2" href="$group__game__manager.html#ga38ecb21ef9dd077a8915329b7f4bc856" title="Gets the current game state." alt="" coords="185,5,261,32"/>
-</map>

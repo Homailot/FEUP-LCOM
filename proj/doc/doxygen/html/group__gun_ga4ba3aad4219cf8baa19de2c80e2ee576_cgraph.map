@@ -1,6 +1,0 @@
-<map id="init_guns" name="init_guns">
-<area shape="rect" id="node1" title="Sets guns to default settings and adds them to gun array." alt="" coords="5,56,80,83"/>
-<area shape="rect" id="node2" href="$group__gun.html#gabe658653f3c5f1273f8cbf5a738eaaca" title="Initialize gun animation." alt="" coords="128,5,237,32"/>
-<area shape="rect" id="node3" href="$group__gun.html#gaba89f5b812d0f459d2aa65b993ca46e0" title="Initialize ray animation." alt="" coords="129,56,236,83"/>
-<area shape="rect" id="node4" href="$group__gun.html#ga650764cdf3bba70aa730f220f3b28d7f" title="Initialize rifle animation." alt="" coords="129,107,237,133"/>
-</map>

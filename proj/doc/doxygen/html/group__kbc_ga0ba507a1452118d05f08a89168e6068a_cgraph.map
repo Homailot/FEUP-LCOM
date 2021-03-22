@@ -1,8 +1,0 @@
-<map id="enable_remote" name="enable_remote">
-<area shape="rect" id="node1" title="Enables remote mode from mouse." alt="" coords="5,56,112,83"/>
-<area shape="rect" id="node2" href="$group__kbc.html#ga213d5f0c93d25fe21ae6ee3ba7b50a15" title="Disables data reporting from mouse." alt="" coords="160,31,312,57"/>
-<area shape="rect" id="node3" href="$group__kbc.html#ga24097be75d63e9da8f179d3ad8565c6e" title="Issues a command to the kbc." alt="" coords="360,56,467,83"/>
-<area shape="rect" id="node4" href="$group__kbc.html#ga7b07c94533f5d4ceb7b46a70b4b782d1" title="Reads the return value of a command sent to the kbc." alt="" coords="516,5,623,32"/>
-<area shape="rect" id="node5" href="$group__kbc.html#gab43d0790802f444d8a1081215a5a41f3" title="Writes an argument to a command to the kbc." alt="" coords="518,56,621,83"/>
-<area shape="rect" id="node6" href="$group__kbc.html#gacc37572edf283d47553607653b0e0896" title="Issues a command to the kbc." alt="" coords="515,107,624,133"/>
-</map>

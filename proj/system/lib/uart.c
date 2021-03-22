@@ -192,6 +192,7 @@ void uart_ih()
             uart_get_line_status(&byte);
             break;
         case IIR_RECV_DATA_AVAIL:
+        case IIR_CHAR_TIMEOUT:
             while ((err = uart_receive_byte(&byte)) != 1)
             {
                 if(err == 2) queue_push(in_fifo, UART_ERROR_CODE);

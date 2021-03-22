@@ -1,7 +1,0 @@
-<map id="rtc_reset_pie" name="rtc_reset_pie">
-<area shape="rect" id="node1" title="Reset periodic interrupts value." alt="" coords="651,31,748,57"/>
-<area shape="rect" id="node2" href="$group__init__lvl.html#gaa25d395d4fff08666e831e0cba1c7246" title="Free memory allocated by load level and setup_game_x." alt="" coords="528,31,603,57"/>
-<area shape="rect" id="node3" href="$group__game__manager.html#gaf1aa267b17d0e1d99c23239ed18bbd4c" title="Closes the multi player game." alt="" coords="340,5,480,32"/>
-<area shape="rect" id="node5" href="$group__game__manager.html#ga18feb8bfb124d4bc47d1cbe47c6316d3" title="Updates the game state based on actions made by the players." alt="" coords="156,56,292,83"/>
-<area shape="rect" id="node4" href="$group__game__manager.html#ga72c1b0483c8b85ff380edd7ac1ee64f1" title="Handles the game&#39;s functions and changes the game&#39;s state according to input and current state." alt="" coords="5,31,108,57"/>
-</map>

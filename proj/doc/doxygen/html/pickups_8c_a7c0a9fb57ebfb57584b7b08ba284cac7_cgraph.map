@@ -1,4 +1,0 @@
-<map id="pickup_armor" name="pickup_armor">
-<area shape="rect" id="node1" title="Pickup handler for armor pickups. Overrides virtual function." alt="" coords="5,5,105,32"/>
-<area shape="rect" id="node2" href="$structarmor.html#a6e23c3cca074b7c35e743e3b0ab8d621" title="Armor to be added to the player." alt="" coords="153,5,249,32"/>
-</map>

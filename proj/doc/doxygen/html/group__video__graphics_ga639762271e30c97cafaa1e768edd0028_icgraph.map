@@ -1,6 +1,0 @@
-<map id="reset_to_text_mode" name="reset_to_text_mode">
-<area shape="rect" id="node1" title="Resetting minix to text mode." alt="" coords="293,31,431,57"/>
-<area shape="rect" id="node2" href="$group__init__lvl.html#ga88838a1d5a5f0bd9067b1d5dffe3874d" title="Free the memory allocated by load_game." alt="" coords="163,5,245,32"/>
-<area shape="rect" id="node4" href="$group__init__lvl.html#ga68cbf292baa1114d43f18837a866c318" title="Load modules of the game from the lib and initializes everything." alt="" coords="165,56,243,83"/>
-<area shape="rect" id="node3" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,31,115,57"/>
-</map>

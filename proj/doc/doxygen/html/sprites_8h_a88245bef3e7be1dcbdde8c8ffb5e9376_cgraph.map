@@ -1,4 +1,0 @@
-<map id="load_sprite" name="load_sprite">
-<area shape="rect" id="node1" title="Loads a sprite from a xpm data type." alt="" coords="5,5,91,32"/>
-<area shape="rect" id="node2" href="$group__utils.html#gaa7d3a1241d0d352a5d9e1400ec965ea5" title="Converts int24_t to uint32_t." alt="" coords="139,5,217,32"/>
-</map>

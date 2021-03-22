@@ -1,6 +1,0 @@
-<map id="vg_init" name="vg_init">
-<area shape="rect" id="node1" title="Function to initialize a graphics mode." alt="" coords="5,31,64,57"/>
-<area shape="rect" id="node2" href="$group__video__graphics.html#ga23e324277ae9a5d88450f28d4219df1a" title="Returns number of bytes needed to represent that ammout of bits." alt="" coords="267,5,365,32"/>
-<area shape="rect" id="node3" href="$group__video__graphics.html#ga32856df9072924ce167b008f5f8f48ca" title="Returns memory size." alt="" coords="112,31,219,57"/>
-<area shape="rect" id="node4" href="$group__video__graphics.html#gafb5cf6a3a1da598b946aac7f1160e2a1" title="Reads information of the graphics card." alt="" coords="119,81,212,108"/>
-</map>

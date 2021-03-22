@@ -481,9 +481,9 @@ void(player_int_ih)(player_info_t * ply) {
         pickup_index(ply, idx);
     }
 
-    bool shot = (get_state() == GAME || get_state() == MP_GAME) && 
+    bool shot = ply->type != PLAYER || ((get_state() == GAME || get_state() == MP_GAME) && 
                     get_inv_menu_state() == CLOSED &&
-                    ((ply->movm.lb_held_down && ply->guns[ply->gun_index].gun.automatic) || ply->movm.lb_single_tap);
+                    ((ply->movm.lb_held_down && ply->guns[ply->gun_index].gun.automatic) || ply->movm.lb_single_tap));
     if (shot){
         shot = fire(ply);
     }

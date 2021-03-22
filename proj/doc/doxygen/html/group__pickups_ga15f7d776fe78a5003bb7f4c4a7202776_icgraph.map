@@ -1,9 +1,0 @@
-<map id="add_armor" name="add_armor">
-<area shape="rect" id="node1" title="Adds armor to the pickups." alt="" coords="455,56,537,83"/>
-<area shape="rect" id="node2" href="$level__manager_8c.html#a9b8cc51da4a483bf58753035b27647b5" title=" " alt="" coords="291,5,398,32"/>
-<area shape="rect" id="node6" href="$group__init__lvl.html#ga95f29e94f6f0c3ef4d49f8f8ca9eed80" title="Setup level 2." alt="" coords="291,56,398,83"/>
-<area shape="rect" id="node7" href="$group__init__lvl.html#ga5376dd4c96f57dfbcd9669a71d43e47c" title="Setups multiplayer game mode and level." alt="" coords="283,107,407,133"/>
-<area shape="rect" id="node3" href="$group__init__lvl.html#ga549b3f664f9bd3be08c458aac824ae77" title="Loads a specified level." alt="" coords="156,56,235,83"/>
-<area shape="rect" id="node4" href="$group__game__manager.html#ga72c1b0483c8b85ff380edd7ac1ee64f1" title="Handles the game&#39;s functions and changes the game&#39;s state according to input and current state." alt="" coords="5,31,108,57"/>
-<area shape="rect" id="node5" href="$group__game__manager.html#ga4a323cc011b2f392e965546d02b1283a" title="Starts the game loop." alt="" coords="5,81,108,108"/>
-</map>

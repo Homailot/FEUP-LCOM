@@ -1,6 +1,0 @@
-<map id="ceil_to_bytes" name="ceil_to_bytes">
-<area shape="rect" id="node1" title="Returns number of bytes needed to represent that ammout of bits." alt="" coords="393,31,492,57"/>
-<area shape="rect" id="node2" href="$group__video__graphics.html#ga32856df9072924ce167b008f5f8f48ca" title="Returns memory size." alt="" coords="239,5,345,32"/>
-<area shape="rect" id="node3" href="$group__video__graphics.html#gafd8c14dded589aa5d616c03c9c884642" title="Function to initialize a graphics mode." alt="" coords="132,31,191,57"/>
-<area shape="rect" id="node4" href="$group__init__lvl.html#ga68cbf292baa1114d43f18837a866c318" title="Load modules of the game from the lib and initializes everything." alt="" coords="5,31,84,57"/>
-</map>

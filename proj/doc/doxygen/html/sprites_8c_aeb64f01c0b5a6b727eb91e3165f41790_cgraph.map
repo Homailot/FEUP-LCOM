@@ -1,5 +1,0 @@
-<map id="load_disc_background" name="load_disc_background">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,156,32"/>
-<area shape="rect" id="node2" href="$sprites_8c.html#a88245bef3e7be1dcbdde8c8ffb5e9376" title="Loads a sprite from a xpm data type." alt="" coords="204,5,289,32"/>
-<area shape="rect" id="node3" href="$group__utils.html#gaa7d3a1241d0d352a5d9e1400ec965ea5" title="Converts int24_t to uint32_t." alt="" coords="337,5,416,32"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="kbc_ih" name="kbc_ih">
-<area shape="rect" id="node1" title="Interrupt handler for the keyboard." alt="" coords="5,31,65,57"/>
-<area shape="rect" id="node2" href="$kbc_8c.html#a8f76f0cf7459ffa3ce7925527bd66d21" title=" " alt="" coords="113,5,224,32"/>
-<area shape="rect" id="node3" href="$group__utils.html#ga8255c513be63fab6591e01f8539f0c64" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="272,31,363,57"/>
-</map>

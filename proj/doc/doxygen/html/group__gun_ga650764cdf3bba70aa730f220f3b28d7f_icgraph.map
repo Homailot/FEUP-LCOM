@@ -1,7 +1,0 @@
-<map id="init_rifle_anims" name="init_rifle_anims">
-<area shape="rect" id="node1" title="Initialize rifle animation." alt="" coords="405,31,513,57"/>
-<area shape="rect" id="node2" href="$group__gun.html#ga4ba3aad4219cf8baa19de2c80e2ee576" title="Sets guns to default settings and adds them to gun array." alt="" coords="283,31,357,57"/>
-<area shape="rect" id="node3" href="$group__init__lvl.html#ga549b3f664f9bd3be08c458aac824ae77" title="Loads a specified level." alt="" coords="156,31,235,57"/>
-<area shape="rect" id="node4" href="$group__game__manager.html#ga72c1b0483c8b85ff380edd7ac1ee64f1" title="Handles the game&#39;s functions and changes the game&#39;s state according to input and current state." alt="" coords="5,5,108,32"/>
-<area shape="rect" id="node5" href="$group__game__manager.html#ga4a323cc011b2f392e965546d02b1283a" title="Starts the game loop." alt="" coords="5,56,108,83"/>
-</map>

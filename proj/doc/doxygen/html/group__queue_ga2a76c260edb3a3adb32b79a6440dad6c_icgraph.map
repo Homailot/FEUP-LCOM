@@ -1,6 +1,0 @@
-<map id="queue_delete" name="queue_delete">
-<area shape="rect" id="node1" title="Frees memory allocated by the given queue&#39;s items, and the queue itself." alt="" coords="463,5,561,32"/>
-<area shape="rect" id="node2" href="$group__uart.html#ga056ef48f8b4bfa4e8745b6a3e215191d" title="Frees the memory allocated by init_uart_queues." alt="" coords="293,5,415,32"/>
-<area shape="rect" id="node3" href="$group__init__lvl.html#ga88838a1d5a5f0bd9067b1d5dffe3874d" title="Free the memory allocated by load_game." alt="" coords="163,5,245,32"/>
-<area shape="rect" id="node4" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,115,32"/>
-</map>

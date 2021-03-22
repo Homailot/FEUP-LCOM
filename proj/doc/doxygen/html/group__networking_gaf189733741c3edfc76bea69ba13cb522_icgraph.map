@@ -1,6 +1,0 @@
-<map id="encode_data" name="encode_data">
-<area shape="rect" id="node1" title="Encodes information into a byte array to be sent by the UART." alt="" coords="481,5,577,32"/>
-<area shape="rect" id="node2" href="$group__networking.html#gae8ea4a22736cfbd0ca647dc2c329cd98" title="Sends a data packet through the UART." alt="" coords="323,5,433,32"/>
-<area shape="rect" id="node3" href="$group__game__manager.html#ga72c1b0483c8b85ff380edd7ac1ee64f1" title="Handles the game&#39;s functions and changes the game&#39;s state according to input and current state." alt="" coords="172,5,275,32"/>
-<area shape="rect" id="node4" href="$group__game__manager.html#gae863255901fecfdd13f5ecdc0b3b034f" title="Handles interrupts and is essentially the main game loop." alt="" coords="5,5,124,32"/>
-</map>

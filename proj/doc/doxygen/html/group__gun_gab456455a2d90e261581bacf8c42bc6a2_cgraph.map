@@ -1,4 +1,0 @@
-<map id="create_gun_instance" name="create_gun_instance">
-<area shape="rect" id="node1" title="Creates a gun instance to be used in a player." alt="" coords="5,5,148,32"/>
-<area shape="rect" id="node2" href="$group__gun.html#gaf30a526c2c98e0f53a216784730cc6cb" title="Gets a gun from the gun array." alt="" coords="196,5,264,32"/>
-</map>

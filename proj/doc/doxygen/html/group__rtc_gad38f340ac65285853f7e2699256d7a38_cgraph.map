@@ -1,4 +1,0 @@
-<map id="rtc_int_cause" name="rtc_int_cause">
-<area shape="rect" id="node1" title="Gets the cause of the interrupt." alt="" coords="5,5,105,32"/>
-<area shape="rect" id="node2" href="$group__utils.html#ga8255c513be63fab6591e01f8539f0c64" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="153,5,244,32"/>
-</map>

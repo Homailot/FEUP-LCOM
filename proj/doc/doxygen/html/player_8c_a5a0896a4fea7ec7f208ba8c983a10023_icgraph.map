@@ -1,7 +1,0 @@
-<map id="fire" name="fire">
-<area shape="rect" id="node1" title=" " alt="" coords="469,56,508,83"/>
-<area shape="rect" id="node2" href="$group__player.html#ga9c5e03267d9da4e33f447e7b6ef0ce81" title="Player int handler Analyses controls and moves, shoots and select animations that should be played ac..." alt="" coords="327,56,421,83"/>
-<area shape="rect" id="node3" href="$group__player.html#gac0c234692f894d10aba0383114063dfb" title="Handle bots events." alt="" coords="178,5,257,32"/>
-<area shape="rect" id="node4" href="$group__game__manager.html#ga72c1b0483c8b85ff380edd7ac1ee64f1" title="Handles the game&#39;s functions and changes the game&#39;s state according to input and current state." alt="" coords="5,56,108,83"/>
-<area shape="rect" id="node5" href="$group__networking.html#gab1688aafeb84ecc5a700fe53d67d76dc" title="Receives data from the enemy player." alt="" coords="156,107,279,133"/>
-</map>

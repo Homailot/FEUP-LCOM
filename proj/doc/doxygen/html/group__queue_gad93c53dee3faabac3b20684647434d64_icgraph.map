@@ -1,9 +1,0 @@
-<map id="queue_clean" name="queue_clean">
-<area shape="rect" id="node1" title="Cleans the queue, removing and freeing all of its elements." alt="" coords="665,43,760,69"/>
-<area shape="rect" id="node2" href="$group__uart.html#gaf66067db0049dbab23f9690813a2ae85" title="Cancels receptions." alt="" coords="475,5,605,32"/>
-<area shape="rect" id="node5" href="$group__uart.html#ga7a359982ea116489bb8b2cb3f6f11e2f" title="Cancels transmissions." alt="" coords="463,68,617,95"/>
-<area shape="rect" id="node3" href="$group__networking.html#ga271fee1f576eb183a23b4f8c9934d87c" title="Uart sync handler According to the state of the network, performs different operations to complete th..." alt="" coords="156,68,235,95"/>
-<area shape="rect" id="node4" href="$group__game__manager.html#ga72c1b0483c8b85ff380edd7ac1ee64f1" title="Handles the game&#39;s functions and changes the game&#39;s state according to input and current state." alt="" coords="5,68,108,95"/>
-<area shape="rect" id="node6" href="$networking_8c.html#a57d58bb37b68f03fb52676cc5525ab8d" title=" " alt="" coords="283,93,415,120"/>
-<area shape="rect" id="node7" href="$networking_8c.html#ae1ad92d5042e636cf33024f1e1f7a30d" title=" " alt="" coords="295,144,402,171"/>
-</map>

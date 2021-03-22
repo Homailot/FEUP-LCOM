@@ -1,7 +1,0 @@
-<map id="kbc_ih" name="kbc_ih">
-<area shape="rect" id="node1" title="Interrupt handler for the keyboard." alt="" coords="488,31,548,57"/>
-<area shape="rect" id="node2" href="$group__controls.html#gaa12a787540f1f6bf2c205d8a8d4bc9c4" title="Handles a keyboard event after an interrupt Calls kbc_ih() Evaluates important information such as ma..." alt="" coords="329,5,440,32"/>
-<area shape="rect" id="node5" href="$group__init__lvl.html#ga68cbf292baa1114d43f18837a866c318" title="Load modules of the game from the lib and initializes everything." alt="" coords="183,56,261,83"/>
-<area shape="rect" id="node3" href="$group__game__manager.html#gae863255901fecfdd13f5ecdc0b3b034f" title="Handles interrupts and is essentially the main game loop." alt="" coords="163,5,281,32"/>
-<area shape="rect" id="node4" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,31,115,57"/>
-</map>

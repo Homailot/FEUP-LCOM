@@ -1,6 +1,0 @@
-<map id="draw_darken_rect" name="draw_darken_rect">
-<area shape="rect" id="node1" title="Draws a rectangle that darkens with distance and is not rendered behind walls." alt="" coords="5,31,129,57"/>
-<area shape="rect" id="node2" href="$group__video__graphics.html#ga56db136ae714bb071adb9103bd7ab68e" title="Darkens a color by a factor." alt="" coords="215,5,276,32"/>
-<area shape="rect" id="node3" href="$video__graphics_8c.html#acb8e891b0c668f05c7a6baf689a296ac" title=" " alt="" coords="177,56,313,83"/>
-<area shape="rect" id="node4" href="$group__video__graphics.html#gae94376b8b22b2414b6a4a53d867fe672" title="Sets a pixel to a desired color in a position of the page buffer." alt="" coords="361,56,423,83"/>
-</map>

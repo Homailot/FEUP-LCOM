@@ -1,8 +1,0 @@
-<map id="uart_init_fifo" name="uart_init_fifo">
-<area shape="rect" id="node1" title="Enables UART&#39;s fifo and clears both fifo&#39;s." alt="" coords="607,31,697,57"/>
-<area shape="rect" id="node2" href="$group__init__lvl.html#ga68cbf292baa1114d43f18837a866c318" title="Load modules of the game from the lib and initializes everything." alt="" coords="341,5,420,32"/>
-<area shape="rect" id="node4" href="$group__networking.html#ga271fee1f576eb183a23b4f8c9934d87c" title="Uart sync handler According to the state of the network, performs different operations to complete th..." alt="" coords="480,56,559,83"/>
-<area shape="rect" id="node3" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,31,115,57"/>
-<area shape="rect" id="node5" href="$group__game__manager.html#ga72c1b0483c8b85ff380edd7ac1ee64f1" title="Handles the game&#39;s functions and changes the game&#39;s state according to input and current state." alt="" coords="329,56,432,83"/>
-<area shape="rect" id="node6" href="$group__game__manager.html#gae863255901fecfdd13f5ecdc0b3b034f" title="Handles interrupts and is essentially the main game loop." alt="" coords="163,56,281,83"/>
-</map>

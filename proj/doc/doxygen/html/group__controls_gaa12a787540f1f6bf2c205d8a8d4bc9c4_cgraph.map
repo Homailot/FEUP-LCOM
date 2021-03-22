@@ -1,7 +1,0 @@
-<map id="handle_kbd_evt" name="handle_kbd_evt">
-<area shape="rect" id="node1" title="Handles a keyboard event after an interrupt Calls kbc_ih() Evaluates important information such as ma..." alt="" coords="5,56,116,83"/>
-<area shape="rect" id="node2" href="$group__kbc.html#ga5761bd4aad91ac1d68916ad88f583d9f" title="Interrupt handler for the keyboard." alt="" coords="191,31,251,57"/>
-<area shape="rect" id="node5" href="$group__controls.html#gaa36accafabfc8f90a182182835f15dbe" title="Parses keyboard data Finds usefull information for movement and activates variables in controls_t obj..." alt="" coords="164,81,279,108"/>
-<area shape="rect" id="node3" href="$kbc_8c.html#a8f76f0cf7459ffa3ce7925527bd66d21" title=" " alt="" coords="327,5,437,32"/>
-<area shape="rect" id="node4" href="$group__utils.html#ga8255c513be63fab6591e01f8539f0c64" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="485,31,576,57"/>
-</map>

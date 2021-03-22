@@ -1,5 +1,0 @@
-<map id="uart_send_byte" name="uart_send_byte">
-<area shape="rect" id="node1" title="Sends a byte through the UART." alt="" coords="5,5,116,32"/>
-<area shape="rect" id="node2" href="$group__uart.html#gacbcd347c09757730bf735a3fe97007f6" title="Gets the line status from the LSR register of the UART." alt="" coords="164,5,303,32"/>
-<area shape="rect" id="node3" href="$group__utils.html#ga8255c513be63fab6591e01f8539f0c64" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="351,5,441,32"/>
-</map>

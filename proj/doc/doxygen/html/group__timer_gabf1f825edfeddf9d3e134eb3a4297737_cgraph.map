@@ -1,5 +1,0 @@
-<map id="timer_set_frequency" name="timer_set_frequency">
-<area shape="rect" id="node1" title="Changes the operating frequency of a timer." alt="" coords="5,5,144,32"/>
-<area shape="rect" id="node2" href="$group__timer.html#gac6616a474f756cff9eb408eb1a856a78" title="Reads the input timer configuration (status) via read&#45;back command." alt="" coords="192,5,299,32"/>
-<area shape="rect" id="node3" href="$group__utils.html#ga8255c513be63fab6591e01f8539f0c64" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="347,5,437,32"/>
-</map>

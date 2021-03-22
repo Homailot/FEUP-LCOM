@@ -1,8 +1,0 @@
-<map id="ms_set_default" name="ms_set_default">
-<area shape="rect" id="node1" title="Sets mouse to default values." alt="" coords="5,56,116,83"/>
-<area shape="rect" id="node2" href="$group__kbc.html#ga213d5f0c93d25fe21ae6ee3ba7b50a15" title="Disables data reporting from mouse." alt="" coords="164,31,316,57"/>
-<area shape="rect" id="node3" href="$group__kbc.html#ga24097be75d63e9da8f179d3ad8565c6e" title="Issues a command to the kbc." alt="" coords="364,56,471,83"/>
-<area shape="rect" id="node4" href="$group__kbc.html#ga7b07c94533f5d4ceb7b46a70b4b782d1" title="Reads the return value of a command sent to the kbc." alt="" coords="520,5,627,32"/>
-<area shape="rect" id="node5" href="$group__kbc.html#gab43d0790802f444d8a1081215a5a41f3" title="Writes an argument to a command to the kbc." alt="" coords="522,56,625,83"/>
-<area shape="rect" id="node6" href="$group__kbc.html#gacc37572edf283d47553607653b0e0896" title="Issues a command to the kbc." alt="" coords="519,107,628,133"/>
-</map>

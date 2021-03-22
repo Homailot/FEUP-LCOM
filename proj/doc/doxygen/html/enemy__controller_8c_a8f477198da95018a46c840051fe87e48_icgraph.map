@@ -1,6 +1,0 @@
-<map id="handle_enemy" name="handle_enemy">
-<area shape="rect" id="node1" title=" " alt="" coords="487,5,593,32"/>
-<area shape="rect" id="node2" href="$group__enemy__controller.html#gae66f73d164ac1793c1bfcce5fed69b9a" title="Handles all of the enemies Calls handle_enemy in each of the controllers to do operations over them." alt="" coords="323,5,439,32"/>
-<area shape="rect" id="node3" href="$group__game__manager.html#ga72c1b0483c8b85ff380edd7ac1ee64f1" title="Handles the game&#39;s functions and changes the game&#39;s state according to input and current state." alt="" coords="172,5,275,32"/>
-<area shape="rect" id="node4" href="$group__game__manager.html#gae863255901fecfdd13f5ecdc0b3b034f" title="Handles interrupts and is essentially the main game loop." alt="" coords="5,5,124,32"/>
-</map>

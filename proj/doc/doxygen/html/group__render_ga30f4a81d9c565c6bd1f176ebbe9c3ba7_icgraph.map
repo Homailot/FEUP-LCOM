@@ -1,8 +1,0 @@
-<map id="render_number" name="render_number">
-<area shape="rect" id="node1" title="Function to render a number." alt="" coords="404,56,512,83"/>
-<area shape="rect" id="node2" href="$group__hud.html#gaea35e9d32d4fbd342c0927476e7dcc33" title="Renders the user interface in&#45;game." alt="" coords="265,5,352,32"/>
-<area shape="rect" id="node5" href="$group__main__menu.html#ga81f52284cc492323c3f07322993acb95" title="Render the main menu." alt="" coords="116,107,213,133"/>
-<area shape="rect" id="node6" href="$render_8c.html#a1a02f39f5ca8173857d0b6b71a1f19a3" title=" " alt="" coords="261,56,356,83"/>
-<area shape="rect" id="node3" href="$render_8c.html#a28fb48f4f5279b10ffe7d45056a74e3b" title=" " alt="" coords="116,56,213,83"/>
-<area shape="rect" id="node4" href="$group__render.html#gacde478f6e658ba455a80592a313a0bec" title="General function that renders the screen Chooses what to render based on the state of the game." alt="" coords="5,81,68,108"/>
-</map>

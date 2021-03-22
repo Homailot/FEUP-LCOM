@@ -1,7 +1,0 @@
-<map id="vg_draw_hor_line" name="vg_draw_hor_line">
-<area shape="rect" id="node1" title="Draws a horizontal line in the page buffer." alt="" coords="444,31,564,57"/>
-<area shape="rect" id="node2" href="$group__video__graphics.html#ga3d368be0ecb5cd1111ab542e1b60d1b9" title="Draws a rectangle." alt="" coords="317,31,396,57"/>
-<area shape="rect" id="node3" href="$group__inv__menu.html#gacf9a8815153ec55160f7d9d1a3dc7221" title="Display gun selection menu." alt="" coords="159,5,261,32"/>
-<area shape="rect" id="node5" href="$group__render.html#ga956084638e1400aa8f1cc23a8aa8af24" title="Function to render a red crosshair The crosshair is always placed in the center of the screen accordi..." alt="" coords="151,56,269,83"/>
-<area shape="rect" id="node4" href="$render_8c.html#a28fb48f4f5279b10ffe7d45056a74e3b" title=" " alt="" coords="5,31,103,57"/>
-</map>

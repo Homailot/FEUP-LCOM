@@ -1,4 +1,0 @@
-<map id="draw_sprite" name="draw_sprite">
-<area shape="rect" id="node1" title="Draws a sprite on the screen." alt="" coords="5,5,93,32"/>
-<area shape="rect" id="node2" href="$group__video__graphics.html#gae94376b8b22b2414b6a4a53d867fe672" title="Sets a pixel to a desired color in a position of the page buffer." alt="" coords="141,5,203,32"/>
-</map>

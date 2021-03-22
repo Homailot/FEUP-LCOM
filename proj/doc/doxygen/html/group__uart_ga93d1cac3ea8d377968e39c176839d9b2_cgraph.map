@@ -1,4 +1,0 @@
-<map id="uart_push_transmit" name="uart_push_transmit">
-<area shape="rect" id="node1" title="Adds a byte to the transmit queue." alt="" coords="5,5,139,32"/>
-<area shape="rect" id="node2" href="$group__queue.html#gaa56eff9ccc07fae1cefc3ef3007d51b2" title="Adds an element to the back of the given queue." alt="" coords="187,5,279,32"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="handle_kbd_evt" name="handle_kbd_evt">
-<area shape="rect" id="node1" title="Handles a keyboard event after an interrupt Calls kbc_ih() Evaluates important information such as ma..." alt="" coords="329,5,440,32"/>
-<area shape="rect" id="node2" href="$group__game__manager.html#gae863255901fecfdd13f5ecdc0b3b034f" title="Handles interrupts and is essentially the main game loop." alt="" coords="163,5,281,32"/>
-<area shape="rect" id="node3" href="$main_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,115,32"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="queue_clean" name="queue_clean">
-<area shape="rect" id="node1" title="Cleans the queue, removing and freeing all of its elements." alt="" coords="5,31,100,57"/>
-<area shape="rect" id="node2" href="$group__queue.html#ga6286b9bdcf30be36b25602dd580f2c56" title="Checks if the given queue is empty." alt="" coords="148,5,248,32"/>
-<area shape="rect" id="node3" href="$group__queue.html#gaafb1cfdccbd2de8cb2d8fcd97971193c" title="Removes the element at the front of the given queue." alt="" coords="155,56,241,83"/>
-</map>

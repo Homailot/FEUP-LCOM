@@ -1,7 +1,0 @@
-<map id="render_hud" name="render_hud">
-<area shape="rect" id="node1" title="Renders the user interface in&#45;game." alt="" coords="5,31,92,57"/>
-<area shape="rect" id="node2" href="$group__video__graphics.html#gade1dd2f68eb9153aeb5db5f5d541ca6b" title="Draws a sprite on the screen." alt="" coords="296,5,384,32"/>
-<area shape="rect" id="node4" href="$group__render.html#ga30f4a81d9c565c6bd1f176ebbe9c3ba7" title="Function to render a number." alt="" coords="140,56,248,83"/>
-<area shape="rect" id="node3" href="$group__video__graphics.html#gae94376b8b22b2414b6a4a53d867fe672" title="Sets a pixel to a desired color in a position of the page buffer." alt="" coords="432,5,493,32"/>
-<area shape="rect" id="node5" href="$group__utils.html#ga70531e40f93a8a0fa10a536371e484e3" title="Returns the digits of the number in an array." alt="" coords="309,56,371,83"/>
-</map>
